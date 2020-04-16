@@ -1,0 +1,1621 @@
+,State,County,PM2.5,Date,total_confirmed_cases,Deaths,Recovered,Active
+0,Connecticut,Fairfield,4.75,Mar 23,270,6,0,0
+1,Connecticut,Fairfield,3.35,Mar 24,384,7,0,0
+2,Connecticut,Fairfield,6.8,Mar 25,546,12,0,0
+3,Connecticut,Fairfield,7.3,Mar 26,607,13,0,0
+4,Connecticut,Fairfield,6.3,Mar 27,752,15,0,0
+5,Connecticut,Fairfield,6.0,Mar 28,908,20,0,0
+6,Connecticut,Fairfield,3.05,Mar 29,1245,21,0,0
+7,Connecticut,Fairfield,3.9,Mar 30,1445,21,0,0
+8,Connecticut,Fairfield,3.7,Mar 31,1870,38,0,0
+9,Connecticut,Fairfield,5.35,Apr 1,1986,46,0,0
+10,Connecticut,Fairfield,2.6,Apr 2,2132,65,0,0
+11,Connecticut,Fairfield,0.8,Apr 3,2716,75,0,0
+12,Connecticut,Fairfield,2.55,Apr 4,2824,86,0,0
+13,Connecticut,Fairfield,9.7,Apr 5,3050,96,0,0
+14,Connecticut,Fairfield,5.15,Apr 6,3719,101,0,0
+15,Connecticut,Fairfield,5.35,Apr 7,4136,132,0,0
+16,Connecticut,Fairfield,7.1,Apr 8,4136,132,0,0
+17,Connecticut,Fairfield,6.7,Apr 9,4882,178,0,0
+18,Connecticut,Hartford,4.6,Mar 23,61,2,0,0
+19,Connecticut,Hartford,2.2,Mar 24,88,2,0,0
+20,Connecticut,Hartford,5.95,Mar 25,116,2,0,0
+21,Connecticut,Hartford,7.05,Mar 26,138,2,0,0
+22,Connecticut,Hartford,6.3,Mar 27,189,2,0,0
+23,Connecticut,Hartford,7.6,Mar 28,228,2,0,0
+24,Connecticut,Hartford,3.15,Mar 29,276,2,0,0
+25,Connecticut,Hartford,2.4,Mar 30,330,3,0,0
+26,Connecticut,Hartford,4.5,Mar 31,393,7,0,0
+27,Connecticut,Hartford,5.55,Apr 1,469,11,0,0
+28,Connecticut,Hartford,2.3,Apr 2,539,13,0,0
+29,Connecticut,Hartford,0.65,Apr 3,679,18,0,0
+30,Connecticut,Hartford,3.05,Apr 4,726,26,0,0
+31,Connecticut,Hartford,8.25,Apr 5,751,29,0,0
+32,Connecticut,Hartford,5.35,Apr 6,882,31,0,0
+33,Connecticut,Hartford,4.5,Apr 7,1045,48,0,0
+34,Connecticut,Hartford,5.6,Apr 8,1045,48,0,0
+35,Connecticut,Hartford,7.15,Apr 9,1471,75,0,0
+36,Connecticut,Litchfield,3.0,Mar 23,13,0,0,0
+37,Connecticut,Litchfield,2.9,Mar 24,22,0,0,0
+38,Connecticut,Litchfield,6.0,Mar 25,33,0,0,0
+39,Connecticut,Litchfield,5.7,Mar 26,44,0,0,0
+40,Connecticut,Litchfield,6.2,Mar 27,52,0,0,0
+41,Connecticut,Litchfield,4.1,Mar 28,65,0,0,0
+42,Connecticut,Litchfield,0.3,Mar 29,87,0,0,0
+43,Connecticut,Litchfield,2.0,Mar 30,113,1,0,0
+44,Connecticut,Litchfield,3.0,Mar 31,121,1,0,0
+45,Connecticut,Litchfield,4.4,Apr 1,131,1,0,0
+46,Connecticut,Litchfield,2.3,Apr 2,141,2,0,0
+47,Connecticut,Litchfield,0.5,Apr 3,173,4,0,0
+48,Connecticut,Litchfield,1.7,Apr 4,182,5,0,0
+49,Connecticut,Litchfield,5.1,Apr 5,197,6,0,0
+50,Connecticut,Litchfield,3.2,Apr 6,230,8,0,0
+51,Connecticut,Litchfield,4.0,Apr 7,255,9,0,0
+52,Connecticut,Litchfield,4.4,Apr 8,255,9,0,0
+53,Connecticut,Litchfield,4.2,Apr 9,315,13,0,0
+54,Connecticut,New Haven,4.2,Mar 23,41,0,0,0
+55,Connecticut,New Haven,3.35,Mar 24,89,0,0,0
+56,Connecticut,New Haven,6.65,Mar 25,127,2,0,0
+57,Connecticut,New Haven,7.35,Mar 26,156,2,0,0
+58,Connecticut,New Haven,7.35,Mar 27,222,6,0,0
+59,Connecticut,New Haven,5.35,Mar 28,236,6,0,0
+60,Connecticut,New Haven,1.95,Mar 29,280,6,0,0
+61,Connecticut,New Haven,3.15,Mar 30,373,6,0,0
+62,Connecticut,New Haven,3.15,Mar 31,517,12,0,0
+63,Connecticut,New Haven,5.0,Apr 1,611,15,0,0
+64,Connecticut,New Haven,3.05,Apr 2,647,17,0,0
+65,Connecticut,New Haven,1.0,Apr 3,891,18,0,0
+66,Connecticut,New Haven,3.05,Apr 4,1024,29,0,0
+67,Connecticut,New Haven,9.35,Apr 5,1162,36,0,0
+68,Connecticut,New Haven,5.8,Apr 6,1468,41,0,0
+69,Connecticut,New Haven,6.35,Apr 7,1664,60,0,0
+70,Connecticut,New Haven,8.05,Apr 8,1664,60,0,0
+71,Connecticut,New Haven,7.15,Apr 9,2183,78,0,0
+72,Connecticut,New London,3.7,Mar 23,4,0,0,0
+73,Connecticut,New London,1.6,Mar 24,6,0,0,0
+74,Connecticut,New London,5.1,Mar 25,9,0,0,0
+75,Connecticut,New London,6.7,Mar 26,13,0,0,0
+76,Connecticut,New London,6.2,Mar 27,15,0,0,0
+77,Connecticut,New London,5.3,Mar 28,19,0,0,0
+78,Connecticut,New London,2.7,Mar 29,20,0,0,0
+79,Connecticut,New London,2.1,Mar 30,24,0,0,0
+80,Connecticut,New London,5.0,Mar 31,27,1,0,0
+81,Connecticut,New London,5.0,Apr 1,29,1,0,0
+82,Connecticut,New London,2.1,Apr 2,29,1,0,0
+83,Connecticut,New London,0.5,Apr 3,40,3,0,0
+84,Connecticut,New London,6.9,Apr 4,57,3,0,0
+85,Connecticut,New London,7.6,Apr 5,57,4,0,0
+86,Connecticut,New London,6.5,Apr 6,65,4,0,0
+87,Connecticut,New London,4.4,Apr 7,85,4,0,0
+88,Connecticut,New London,7.4,Apr 8,85,4,0,0
+89,Connecticut,New London,6.4,Apr 9,139,6,0,0
+90,Delaware,Kent,5.0,Mar 23,6,0,0,0
+91,Delaware,Kent,7.7,Mar 24,10,0,0,0
+92,Delaware,Kent,5.2,Mar 25,14,0,0,0
+93,Delaware,Kent,8.8,Mar 26,17,0,0,0
+94,Delaware,Kent,9.4,Mar 27,21,0,0,0
+95,Delaware,Kent,8.2,Mar 28,25,2,0,0
+96,Delaware,Kent,7.8,Mar 29,25,3,0,0
+97,Delaware,Kent,7.7,Mar 30,27,3,0,0
+98,Delaware,Kent,5.9,Mar 31,34,3,0,0
+99,Delaware,Kent,6.5,Apr 1,41,3,0,0
+100,Delaware,Kent,4.2,Apr 2,43,2,0,0
+101,Delaware,Kent,3.0,Apr 3,54,2,0,0
+102,Delaware,Kent,3.6,Apr 4,68,2,0,0
+103,Delaware,Kent,6.4,Apr 5,86,2,0,0
+104,Delaware,Kent,6.5,Apr 6,128,3,0,0
+105,Delaware,Kent,13.4,Apr 7,147,4,0,0
+106,Delaware,Kent,9.0,Apr 8,201,4,0,0
+107,Delaware,Kent,8.0,Apr 9,214,4,0,0
+108,Delaware,New Castle,4.23,Mar 23,44,0,0,0
+109,Delaware,New Castle,5.5,Mar 24,71,0,0,0
+110,Delaware,New Castle,5.2,Mar 25,79,0,0,0
+111,Delaware,New Castle,9.03,Mar 26,86,0,0,0
+112,Delaware,New Castle,8.3,Mar 27,105,0,0,0
+113,Delaware,New Castle,8.47,Mar 28,130,2,0,0
+114,Delaware,New Castle,9.5,Mar 29,141,2,0,0
+115,Delaware,New Castle,8.3,Mar 30,156,2,0,0
+116,Delaware,New Castle,3.83,Mar 31,197,2,0,0
+117,Delaware,New Castle,5.53,Apr 1,226,5,0,0
+118,Delaware,New Castle,4.17,Apr 2,245,7,0,0
+119,Delaware,New Castle,2.87,Apr 3,279,7,0,0
+120,Delaware,New Castle,3.37,Apr 4,400,7,0,0
+121,Delaware,New Castle,7.47,Apr 5,436,7,0,0
+122,Delaware,New Castle,5.47,Apr 6,496,9,0,0
+123,Delaware,New Castle,9.7,Apr 7,571,9,0,0
+124,Delaware,New Castle,7.6,Apr 8,636,9,0,0
+125,Delaware,New Castle,7.87,Apr 9,701,9,0,0
+126,Delaware,Sussex,4.6,Mar 23,18,0,0,0
+127,Delaware,Sussex,8.2,Mar 24,23,0,0,0
+128,Delaware,Sussex,5.2,Mar 25,26,0,0,0
+129,Delaware,Sussex,8.7,Mar 26,27,1,0,0
+130,Delaware,Sussex,10.4,Mar 27,37,1,0,0
+131,Delaware,Sussex,8.0,Mar 28,59,1,0,0
+132,Delaware,Sussex,8.7,Mar 29,66,1,0,0
+133,Delaware,Sussex,6.5,Mar 30,81,1,0,0
+134,Delaware,Sussex,6.6,Mar 31,88,2,0,0
+135,Delaware,Sussex,6.9,Apr 1,101,3,0,0
+136,Delaware,Sussex,4.0,Apr 2,105,3,0,0
+137,Delaware,Sussex,3.0,Apr 3,117,3,0,0
+138,Delaware,Sussex,3.7,Apr 4,125,3,0,0
+139,Delaware,Sussex,5.2,Apr 5,151,3,0,0
+140,Delaware,Sussex,7.2,Apr 6,159,3,0,0
+141,Delaware,Sussex,13.3,Apr 7,210,3,0,0
+142,Delaware,Sussex,8.1,Apr 8,279,3,0,0
+143,Delaware,Sussex,7.5,Apr 9,294,3,0,0
+144,Maine,Androscoggin,4.8,Mar 23,3,0,0,0
+145,Maine,Androscoggin,1.1,Mar 24,3,0,0,0
+146,Maine,Androscoggin,5.1,Mar 25,4,0,0,0
+147,Maine,Androscoggin,2.5,Mar 26,5,0,0,0
+148,Maine,Androscoggin,2.2,Mar 27,6,0,0,0
+149,Maine,Androscoggin,3.6,Mar 28,7,0,0,0
+150,Maine,Androscoggin,2.7,Mar 29,8,0,0,0
+151,Maine,Androscoggin,0.8,Mar 30,8,0,0,0
+152,Maine,Androscoggin,1.2,Mar 31,11,0,0,0
+153,Maine,Androscoggin,-0.2,Apr 1,11,0,0,0
+154,Maine,Androscoggin,-0.5,Apr 2,12,0,0,0
+155,Maine,Androscoggin,2.6,Apr 3,19,0,0,0
+156,Maine,Androscoggin,2.6,Apr 4,20,0,0,0
+157,Maine,Androscoggin,1.3,Apr 5,20,0,0,0
+158,Maine,Androscoggin,1.5,Apr 6,23,0,0,0
+159,Maine,Androscoggin,3.9,Apr 7,23,0,0,0
+160,Maine,Androscoggin,4.6,Apr 8,23,0,0,0
+161,Maine,Androscoggin,4.5,Apr 9,24,0,0,0
+162,Maine,Aroostook,5.2,Mar 23,0,0,0,0
+163,Maine,Aroostook,5.47,Mar 24,0,0,0,0
+164,Maine,Aroostook,7.7,Mar 25,0,0,0,0
+165,Maine,Aroostook,5.3,Mar 26,0,0,0,0
+166,Maine,Aroostook,4.67,Mar 27,0,0,0,0
+167,Maine,Aroostook,6.15,Mar 28,0,0,0,0
+168,Maine,Aroostook,6.2,Mar 29,0,0,0,0
+169,Maine,Aroostook,2.6,Mar 30,0,0,0,0
+170,Maine,Aroostook,4.33,Mar 31,0,0,0,0
+171,Maine,Aroostook,1.8,Apr 1,0,0,0,0
+172,Maine,Aroostook,1.67,Apr 2,0,0,0,0
+173,Maine,Aroostook,2.5,Apr 3,1,0,0,0
+174,Maine,Aroostook,4.73,Apr 4,1,0,0,0
+175,Maine,Aroostook,3.37,Apr 5,1,0,0,0
+176,Maine,Aroostook,3.5,Apr 6,1,0,0,0
+177,Maine,Aroostook,4.25,Apr 7,2,0,0,0
+178,Maine,Aroostook,5.75,Apr 8,2,0,0,0
+179,Maine,Aroostook,4.1,Apr 9,2,0,0,0
+180,Maine,Cumberland,7.1,Mar 23,66,0,0,0
+181,Maine,Cumberland,6.8,Mar 24,74,0,0,0
+182,Maine,Cumberland,9.1,Mar 25,87,0,0,0
+183,Maine,Cumberland,7.6,Mar 26,90,0,0,0
+184,Maine,Cumberland,7.9,Mar 27,92,1,0,0
+185,Maine,Cumberland,7.9,Mar 28,120,1,0,0
+186,Maine,Cumberland,8.0,Mar 29,142,3,0,0
+187,Maine,Cumberland,5.5,Mar 30,154,3,0,0
+188,Maine,Cumberland,6.8,Mar 31,169,3,0,0
+189,Maine,Cumberland,4.9,Apr 1,169,3,0,0
+190,Maine,Cumberland,5.0,Apr 2,204,5,0,0
+191,Maine,Cumberland,6.0,Apr 3,222,5,0,0
+192,Maine,Cumberland,6.9,Apr 4,231,5,0,0
+193,Maine,Cumberland,9.8,Apr 5,238,5,0,0
+194,Maine,Cumberland,6.5,Apr 6,249,5,0,0
+195,Maine,Cumberland,9.2,Apr 7,253,9,0,0
+196,Maine,Cumberland,8.7,Apr 8,262,10,0,0
+197,Maine,Cumberland,7.5,Apr 9,269,11,0,0
+198,Maine,Hancock,2.1,Mar 23,0,0,0,0
+199,Maine,Hancock,1.1,Mar 24,0,0,0,0
+200,Maine,Hancock,2.8,Mar 25,0,0,0,0
+201,Maine,Hancock,2.2,Mar 26,0,0,0,0
+202,Maine,Hancock,2.0,Mar 27,0,0,0,0
+203,Maine,Hancock,1.4,Mar 28,0,0,0,0
+204,Maine,Hancock,2.0,Mar 29,0,0,0,0
+205,Maine,Hancock,1.5,Mar 30,0,0,0,0
+206,Maine,Hancock,1.8,Mar 31,0,0,0,0
+207,Maine,Hancock,0.1,Apr 1,0,0,0,0
+208,Maine,Hancock,0.5,Apr 2,2,0,0,0
+209,Maine,Hancock,2.7,Apr 3,2,0,0,0
+210,Maine,Hancock,3.0,Apr 4,2,0,0,0
+211,Maine,Hancock,3.3,Apr 5,2,0,0,0
+212,Maine,Hancock,0.7,Apr 6,2,0,0,0
+213,Maine,Hancock,0.6,Apr 7,2,0,0,0
+214,Maine,Hancock,0.6,Apr 8,3,0,0,0
+215,Maine,Hancock,1.1,Apr 9,3,0,0,0
+216,Maine,Oxford,4.4,Mar 23,5,0,0,0
+217,Maine,Oxford,5.5,Mar 24,6,0,0,0
+218,Maine,Oxford,7.3,Mar 25,6,0,0,0
+219,Maine,Oxford,7.8,Mar 26,8,0,0,0
+220,Maine,Oxford,3.8,Mar 27,8,0,0,0
+221,Maine,Oxford,5.7,Mar 28,8,0,0,0
+222,Maine,Oxford,5.2,Mar 29,9,0,0,0
+223,Maine,Oxford,4.6,Mar 30,9,0,0,0
+224,Maine,Oxford,4.7,Mar 31,9,0,0,0
+225,Maine,Oxford,3.7,Apr 1,9,0,0,0
+226,Maine,Oxford,1.0,Apr 2,9,0,0,0
+227,Maine,Oxford,2.2,Apr 3,10,0,0,0
+228,Maine,Oxford,3.8,Apr 4,11,0,0,0
+229,Maine,Oxford,6.5,Apr 5,11,0,0,0
+230,Maine,Oxford,3.0,Apr 6,11,0,0,0
+231,Maine,Oxford,4.5,Apr 7,12,0,0,0
+232,Maine,Oxford,5.2,Apr 8,12,0,0,0
+233,Maine,Oxford,3.5,Apr 9,12,0,0,0
+234,Maine,Penobscot,5.2,Mar 23,3,0,0,0
+235,Maine,Penobscot,2.7,Mar 24,4,0,0,0
+236,Maine,Penobscot,6.1,Mar 25,4,0,0,0
+237,Maine,Penobscot,4.2,Mar 26,5,0,0,0
+238,Maine,Penobscot,3.3,Mar 27,6,0,0,0
+239,Maine,Penobscot,3.0,Mar 28,10,0,0,0
+240,Maine,Penobscot,5.5,Mar 29,11,0,0,0
+241,Maine,Penobscot,1.8,Mar 30,12,0,0,0
+242,Maine,Penobscot,1.9,Mar 31,12,0,0,0
+243,Maine,Penobscot,0.6,Apr 1,12,0,0,0
+244,Maine,Penobscot,-0.2,Apr 2,16,0,0,0
+245,Maine,Penobscot,1.6,Apr 3,20,0,0,0
+246,Maine,Penobscot,2.8,Apr 4,22,0,0,0
+247,Maine,Penobscot,3.8,Apr 5,22,0,0,0
+248,Maine,Penobscot,2.4,Apr 6,25,0,0,0
+249,Maine,Penobscot,2.7,Apr 7,31,0,0,0
+250,Maine,Penobscot,2.7,Apr 8,31,0,0,0
+251,Maine,Penobscot,1.5,Apr 9,31,0,0,0
+252,Massachusetts,Berkshire,5.45,Mar 23,26,0,0,0
+253,Massachusetts,Berkshire,6.35,Mar 24,37,0,0,0
+254,Massachusetts,Berkshire,7.95,Mar 25,71,0,0,0
+255,Massachusetts,Berkshire,8.7,Mar 26,73,0,0,0
+256,Massachusetts,Berkshire,6.75,Mar 27,105,2,0,0
+257,Massachusetts,Berkshire,8.6,Mar 28,119,2,0,0
+258,Massachusetts,Berkshire,2.45,Mar 29,151,3,0,0
+259,Massachusetts,Berkshire,3.4,Mar 30,162,3,0,0
+260,Massachusetts,Berkshire,4.3,Mar 31,171,4,0,0
+261,Massachusetts,Berkshire,5.4,Apr 1,183,4,0,0
+262,Massachusetts,Berkshire,2.75,Apr 2,213,5,0,0
+263,Massachusetts,Berkshire,2.75,Apr 3,240,5,0,0
+264,Massachusetts,Berkshire,4.5,Apr 4,253,8,0,0
+265,Massachusetts,Berkshire,5.75,Apr 5,258,11,0,0
+266,Massachusetts,Berkshire,4.05,Apr 6,268,11,0,0
+267,Massachusetts,Berkshire,5.95,Apr 7,278,16,0,0
+268,Massachusetts,Berkshire,5.3,Apr 8,281,18,0,0
+269,Massachusetts,Berkshire,4.65,Apr 9,304,18,0,0
+270,Massachusetts,Bristol,9.0,Mar 23,25,0,0,0
+271,Massachusetts,Bristol,8.1,Mar 24,31,0,0,0
+272,Massachusetts,Bristol,11.0,Mar 25,67,0,0,0
+273,Massachusetts,Bristol,11.2,Mar 26,90,0,0,0
+274,Massachusetts,Bristol,10.8,Mar 27,129,1,0,0
+275,Massachusetts,Bristol,11.2,Mar 28,179,1,0,0
+276,Massachusetts,Bristol,7.8,Mar 29,208,1,0,0
+277,Massachusetts,Bristol,7.4,Mar 30,263,2,0,0
+278,Massachusetts,Bristol,8.4,Mar 31,306,2,0,0
+279,Massachusetts,Bristol,8.2,Apr 1,366,3,0,0
+280,Massachusetts,Bristol,7.2,Apr 2,424,3,0,0
+281,Massachusetts,Bristol,6.5,Apr 3,517,4,0,0
+282,Massachusetts,Bristol,10.5,Apr 4,601,5,0,0
+283,Massachusetts,Bristol,10.5,Apr 5,659,8,0,0
+284,Massachusetts,Bristol,10.2,Apr 6,722,8,0,0
+285,Massachusetts,Bristol,9.8,Apr 7,768,16,0,0
+286,Massachusetts,Bristol,11.4,Apr 8,835,23,0,0
+287,Massachusetts,Bristol,10.2,Apr 9,994,23,0,0
+288,Massachusetts,Essex,3.5,Mar 23,73,0,0,0
+289,Massachusetts,Essex,2.95,Mar 24,118,0,0,0
+290,Massachusetts,Essex,4.85,Mar 25,177,0,0,0
+291,Massachusetts,Essex,5.85,Mar 26,247,2,0,0
+292,Massachusetts,Essex,4.25,Mar 27,350,2,0,0
+293,Massachusetts,Essex,5.85,Mar 28,472,3,0,0
+294,Massachusetts,Essex,4.3,Mar 29,570,4,0,0
+295,Massachusetts,Essex,2.4,Mar 30,653,6,0,0
+296,Massachusetts,Essex,3.95,Mar 31,784,12,0,0
+297,Massachusetts,Essex,3.0,Apr 1,885,17,0,0
+298,Massachusetts,Essex,3.7,Apr 2,1039,18,0,0
+299,Massachusetts,Essex,4.3,Apr 3,1238,23,0,0
+300,Massachusetts,Essex,5.25,Apr 4,1400,25,0,0
+301,Massachusetts,Essex,7.2,Apr 5,1506,27,0,0
+302,Massachusetts,Essex,3.65,Apr 6,1653,29,0,0
+303,Massachusetts,Essex,1.7,Apr 7,1841,35,0,0
+304,Massachusetts,Essex,5.2,Apr 8,2103,50,0,0
+305,Massachusetts,Essex,3.0,Apr 9,2336,50,0,0
+306,Massachusetts,Franklin,6.6,Mar 23,6,0,0,0
+307,Massachusetts,Franklin,5.9,Mar 24,10,0,0,0
+308,Massachusetts,Franklin,8.9,Mar 25,14,0,0,0
+309,Massachusetts,Franklin,8.2,Mar 26,16,1,0,0
+310,Massachusetts,Franklin,7.7,Mar 27,24,2,0,0
+311,Massachusetts,Franklin,9.2,Mar 28,39,2,0,0
+312,Massachusetts,Franklin,5.8,Mar 29,41,2,0,0
+313,Massachusetts,Franklin,5.2,Mar 30,49,2,0,0
+314,Massachusetts,Franklin,6.5,Mar 31,61,4,0,0
+315,Massachusetts,Franklin,6.1,Apr 1,72,7,0,0
+316,Massachusetts,Franklin,3.9,Apr 2,85,8,0,0
+317,Massachusetts,Franklin,4.2,Apr 3,89,11,0,0
+318,Massachusetts,Franklin,6.0,Apr 4,95,12,0,0
+319,Massachusetts,Franklin,11.6,Apr 5,100,12,0,0
+320,Massachusetts,Franklin,6.6,Apr 6,107,13,0,0
+321,Massachusetts,Franklin,6.1,Apr 7,118,17,0,0
+322,Massachusetts,Franklin,7.5,Apr 8,117,21,0,0
+323,Massachusetts,Franklin,5.8,Apr 9,128,21,0,0
+324,Massachusetts,Hampden,5.4,Mar 23,15,0,0,0
+325,Massachusetts,Hampden,4.25,Mar 24,24,0,0,0
+326,Massachusetts,Hampden,7.9,Mar 25,45,0,0,0
+327,Massachusetts,Hampden,6.5,Mar 26,55,1,0,0
+328,Massachusetts,Hampden,6.95,Mar 27,90,1,0,0
+329,Massachusetts,Hampden,9.85,Mar 28,183,4,0,0
+330,Massachusetts,Hampden,4.55,Mar 29,201,4,0,0
+331,Massachusetts,Hampden,4.3,Mar 30,255,4,0,0
+332,Massachusetts,Hampden,6.05,Mar 31,354,11,0,0
+333,Massachusetts,Hampden,5.75,Apr 1,475,16,0,0
+334,Massachusetts,Hampden,3.65,Apr 2,546,19,0,0
+335,Massachusetts,Hampden,3.4,Apr 3,661,27,0,0
+336,Massachusetts,Hampden,4.9,Apr 4,733,34,0,0
+337,Massachusetts,Hampden,8.9,Apr 5,768,34,0,0
+338,Massachusetts,Hampden,5.4,Apr 6,889,38,0,0
+339,Massachusetts,Hampden,5.0,Apr 7,997,55,0,0
+340,Massachusetts,Hampden,6.6,Apr 8,1081,62,0,0
+341,Massachusetts,Hampden,7.2,Apr 9,1276,62,0,0
+342,Massachusetts,Hampshire,9.9,Mar 23,6,0,0,0
+343,Massachusetts,Hampshire,6.9,Mar 24,8,0,0,0
+344,Massachusetts,Hampshire,9.2,Mar 25,11,0,0,0
+345,Massachusetts,Hampshire,,Mar 26,17,0,0,0
+346,Massachusetts,Hampshire,,Mar 27,20,0,0,0
+347,Massachusetts,Hampshire,,Mar 28,30,0,0,0
+348,Massachusetts,Hampshire,,Mar 29,37,0,0,0
+349,Massachusetts,Hampshire,,Mar 30,46,0,0,0
+350,Massachusetts,Hampshire,,Mar 31,69,1,0,0
+351,Massachusetts,Hampshire,,Apr 1,81,1,0,0
+352,Massachusetts,Hampshire,,Apr 2,102,2,0,0
+353,Massachusetts,Hampshire,,Apr 3,114,3,0,0
+354,Massachusetts,Hampshire,,Apr 4,125,3,0,0
+355,Massachusetts,Hampshire,,Apr 5,128,3,0,0
+356,Massachusetts,Hampshire,,Apr 6,147,3,0,0
+357,Massachusetts,Hampshire,,Apr 7,158,3,0,0
+358,Massachusetts,Hampshire,,Apr 8,164,3,0,0
+359,Massachusetts,Hampshire,,Apr 9,177,3,0,0
+360,Massachusetts,Middlesex,5.0,Mar 23,232,1,0,0
+361,Massachusetts,Middlesex,4.2,Mar 24,304,1,0,0
+362,Massachusetts,Middlesex,6.6,Mar 25,446,1,0,0
+363,Massachusetts,Middlesex,7.0,Mar 26,538,4,0,0
+364,Massachusetts,Middlesex,5.6,Mar 27,685,5,0,0
+365,Massachusetts,Middlesex,8.6,Mar 28,842,5,0,0
+366,Massachusetts,Middlesex,5.1,Mar 29,981,6,0,0
+367,Massachusetts,Middlesex,3.3,Mar 30,1141,8,0,0
+368,Massachusetts,Middlesex,4.5,Mar 31,1340,17,0,0
+369,Massachusetts,Middlesex,3.6,Apr 1,1582,20,0,0
+370,Massachusetts,Middlesex,3.0,Apr 2,1870,28,0,0
+371,Massachusetts,Middlesex,2.8,Apr 3,2202,38,0,0
+372,Massachusetts,Middlesex,6.7,Apr 4,2468,38,0,0
+373,Massachusetts,Middlesex,8.1,Apr 5,2632,41,0,0
+374,Massachusetts,Middlesex,4.6,Apr 6,2950,47,0,0
+375,Massachusetts,Middlesex,7.0,Apr 7,3187,68,0,0
+376,Massachusetts,Middlesex,9.5,Apr 8,3545,80,0,0
+377,Massachusetts,Middlesex,7.9,Apr 9,4045,80,0,0
+378,Massachusetts,Norfolk,2.9,Mar 23,82,0,0,0
+379,Massachusetts,Norfolk,3.7,Mar 24,129,0,0,0
+380,Massachusetts,Norfolk,4.2,Mar 25,222,1,0,0
+381,Massachusetts,Norfolk,6.0,Mar 26,292,2,0,0
+382,Massachusetts,Norfolk,4.4,Mar 27,393,6,0,0
+383,Massachusetts,Norfolk,5.3,Mar 28,490,8,0,0
+384,Massachusetts,Norfolk,1.4,Mar 29,548,9,0,0
+385,Massachusetts,Norfolk,3.7,Mar 30,628,10,0,0
+386,Massachusetts,Norfolk,3.7,Mar 31,738,12,0,0
+387,Massachusetts,Norfolk,2.1,Apr 1,829,15,0,0
+388,Massachusetts,Norfolk,0.2,Apr 2,938,21,0,0
+389,Massachusetts,Norfolk,3.5,Apr 3,1045,24,0,0
+390,Massachusetts,Norfolk,4.6,Apr 4,1199,25,0,0
+391,Massachusetts,Norfolk,6.3,Apr 5,1271,26,0,0
+392,Massachusetts,Norfolk,2.5,Apr 6,1382,29,0,0
+393,Massachusetts,Norfolk,4.4,Apr 7,1592,35,0,0
+394,Massachusetts,Norfolk,5.9,Apr 8,1778,41,0,0
+395,Massachusetts,Norfolk,4.2,Apr 9,2007,41,0,0
+396,Massachusetts,Plymouth,9.5,Mar 23,32,0,0,0
+397,Massachusetts,Plymouth,4.0,Mar 24,64,0,0,0
+398,Massachusetts,Plymouth,,Mar 25,101,0,0,0
+399,Massachusetts,Plymouth,,Mar 26,138,0,0,0
+400,Massachusetts,Plymouth,9.0,Mar 27,187,0,0,0
+401,Massachusetts,Plymouth,11.8,Mar 28,272,0,0,0
+402,Massachusetts,Plymouth,5.8,Mar 29,325,0,0,0
+403,Massachusetts,Plymouth,4.2,Mar 30,380,0,0,0
+404,Massachusetts,Plymouth,6.1,Mar 31,459,2,0,0
+405,Massachusetts,Plymouth,5.7,Apr 1,561,5,0,0
+406,Massachusetts,Plymouth,4.2,Apr 2,621,6,0,0
+407,Massachusetts,Plymouth,4.1,Apr 3,745,7,0,0
+408,Massachusetts,Plymouth,8.0,Apr 4,898,8,0,0
+409,Massachusetts,Plymouth,8.5,Apr 5,963,10,0,0
+410,Massachusetts,Plymouth,5.4,Apr 6,1067,15,0,0
+411,Massachusetts,Plymouth,5.7,Apr 7,1194,26,0,0
+412,Massachusetts,Plymouth,7.4,Apr 8,1327,33,0,0
+413,Massachusetts,Plymouth,6.7,Apr 9,1507,33,0,0
+414,Massachusetts,Suffolk,5.15,Mar 23,154,1,0,0
+415,Massachusetts,Suffolk,3.4,Mar 24,234,1,0,0
+416,Massachusetts,Suffolk,5.5,Mar 25,342,1,0,0
+417,Massachusetts,Suffolk,6.05,Mar 26,448,2,0,0
+418,Massachusetts,Suffolk,4.75,Mar 27,631,2,0,0
+419,Massachusetts,Suffolk,6.7,Mar 28,843,3,0,0
+420,Massachusetts,Suffolk,3.8,Mar 29,940,3,0,0
+421,Massachusetts,Suffolk,3.75,Mar 30,1115,5,0,0
+422,Massachusetts,Suffolk,5.4,Mar 31,1373,6,0,0
+423,Massachusetts,Suffolk,4.85,Apr 1,1624,13,0,0
+424,Massachusetts,Suffolk,1.9,Apr 2,1896,19,0,0
+425,Massachusetts,Suffolk,1.5,Apr 3,2183,21,0,0
+426,Massachusetts,Suffolk,3.6,Apr 4,2429,26,0,0
+427,Massachusetts,Suffolk,5.1,Apr 5,2658,27,0,0
+428,Massachusetts,Suffolk,1.7,Apr 6,2929,31,0,0
+429,Massachusetts,Suffolk,4.3,Apr 7,3245,40,0,0
+430,Massachusetts,Suffolk,6.15,Apr 8,3600,48,0,0
+431,Massachusetts,Suffolk,4.05,Apr 9,4041,48,0,0
+432,Massachusetts,Worcester,7.0,Mar 23,42,0,0,0
+433,Massachusetts,Worcester,4.2,Mar 24,73,0,0,0
+434,Massachusetts,Worcester,8.3,Mar 25,129,2,0,0
+435,Massachusetts,Worcester,9.1,Mar 26,166,3,0,0
+436,Massachusetts,Worcester,6.7,Mar 27,219,3,0,0
+437,Massachusetts,Worcester,9.5,Mar 28,291,5,0,0
+438,Massachusetts,Worcester,4.0,Mar 29,337,5,0,0
+439,Massachusetts,Worcester,5.2,Mar 30,390,5,0,0
+440,Massachusetts,Worcester,6.8,Mar 31,433,7,0,0
+441,Massachusetts,Worcester,6.9,Apr 1,563,9,0,0
+442,Massachusetts,Worcester,2.8,Apr 2,667,13,0,0
+443,Massachusetts,Worcester,3.2,Apr 3,825,14,0,0
+444,Massachusetts,Worcester,6.7,Apr 4,915,17,0,0
+445,Massachusetts,Worcester,10.2,Apr 5,978,17,0,0
+446,Massachusetts,Worcester,5.7,Apr 6,1077,18,0,0
+447,Massachusetts,Worcester,7.2,Apr 7,1172,23,0,0
+448,Massachusetts,Worcester,7.9,Apr 8,1296,29,0,0
+449,Massachusetts,Worcester,7.0,Apr 9,1461,29,0,0
+450,Maryland,Baltimore,2.3,Mar 23,35,1,0,0
+451,Maryland,Baltimore,4.2,Mar 24,42,1,0,0
+452,Maryland,Baltimore,5.0,Mar 25,51,1,0,0
+453,Maryland,Baltimore,8.2,Mar 26,81,1,0,0
+454,Maryland,Baltimore,6.8,Mar 27,103,1,0,0
+455,Maryland,Baltimore,6.0,Mar 28,141,1,0,0
+456,Maryland,Baltimore,5.1,Mar 29,162,1,0,0
+457,Maryland,Baltimore,5.2,Mar 30,186,1,0,0
+458,Maryland,Baltimore,3.0,Mar 31,227,1,0,0
+459,Maryland,Baltimore,4.8,Apr 1,289,1,0,0
+460,Maryland,Baltimore,1.9,Apr 2,353,3,0,0
+461,Maryland,Baltimore,1.3,Apr 3,427,3,0,0
+462,Maryland,Baltimore,2.6,Apr 4,491,4,0,0
+463,Maryland,Baltimore,5.0,Apr 5,590,6,0,0
+464,Maryland,Baltimore,5.2,Apr 6,648,11,0,0
+465,Maryland,Baltimore,13.4,Apr 7,652,11,0,0
+466,Maryland,Baltimore,6.6,Apr 8,866,13,0,0
+467,Maryland,Baltimore,7.5,Apr 9,979,16,0,0
+468,Maryland,Cecil,1.5,Mar 23,1,0,0,0
+469,Maryland,Cecil,4.6,Mar 24,3,0,0,0
+470,Maryland,Cecil,2.7,Mar 25,4,0,0,0
+471,Maryland,Cecil,6.0,Mar 26,4,0,0,0
+472,Maryland,Cecil,6.9,Mar 27,9,0,0,0
+473,Maryland,Cecil,6.5,Mar 28,13,0,0,0
+474,Maryland,Cecil,4.5,Mar 29,13,0,0,0
+475,Maryland,Cecil,3.3,Mar 30,13,0,0,0
+476,Maryland,Cecil,1.1,Mar 31,14,0,0,0
+477,Maryland,Cecil,4.7,Apr 1,16,0,0,0
+478,Maryland,Cecil,2.7,Apr 2,20,1,0,0
+479,Maryland,Cecil,2.4,Apr 3,25,1,0,0
+480,Maryland,Cecil,4.2,Apr 4,33,1,0,0
+481,Maryland,Cecil,5.9,Apr 5,36,1,0,0
+482,Maryland,Cecil,3.7,Apr 6,37,1,0,0
+483,Maryland,Cecil,9.4,Apr 7,41,1,0,0
+484,Maryland,Cecil,5.1,Apr 8,49,1,0,0
+485,Maryland,Cecil,6.8,Apr 9,54,1,0,0
+486,Maryland,Dorchester,2.5,Mar 23,0,0,0,0
+487,Maryland,Dorchester,2.2,Mar 24,0,0,0,0
+488,Maryland,Dorchester,2.6,Mar 25,0,0,0,0
+489,Maryland,Dorchester,4.6,Mar 26,0,0,0,0
+490,Maryland,Dorchester,4.9,Mar 27,0,0,0,0
+491,Maryland,Dorchester,4.8,Mar 28,0,0,0,0
+492,Maryland,Dorchester,4.4,Mar 29,0,0,0,0
+493,Maryland,Dorchester,4.3,Mar 30,0,0,0,0
+494,Maryland,Dorchester,3.5,Mar 31,0,0,0,0
+495,Maryland,Dorchester,4.2,Apr 1,1,0,0,0
+496,Maryland,Dorchester,2.3,Apr 2,1,0,0,0
+497,Maryland,Dorchester,1.4,Apr 3,1,0,0,0
+498,Maryland,Dorchester,2.4,Apr 4,1,0,0,0
+499,Maryland,Dorchester,3.0,Apr 5,1,0,0,0
+500,Maryland,Dorchester,4.3,Apr 6,1,0,0,0
+501,Maryland,Dorchester,7.8,Apr 7,3,0,0,0
+502,Maryland,Dorchester,5.8,Apr 8,4,0,0,0
+503,Maryland,Dorchester,3.3,Apr 9,7,0,0,0
+504,Maryland,Garrett,2.0,Mar 23,3,0,0,0
+505,Maryland,Garrett,5.5,Mar 24,3,0,0,0
+506,Maryland,Garrett,3.4,Mar 25,3,0,0,0
+507,Maryland,Garrett,3.7,Mar 26,3,0,0,0
+508,Maryland,Garrett,4.8,Mar 27,3,0,0,0
+509,Maryland,Garrett,6.0,Mar 28,3,0,0,0
+510,Maryland,Garrett,3.4,Mar 29,3,0,0,0
+511,Maryland,Garrett,1.9,Mar 30,3,0,0,0
+512,Maryland,Garrett,2.7,Mar 31,3,0,0,0
+513,Maryland,Garrett,2.0,Apr 1,3,0,0,0
+514,Maryland,Garrett,2.6,Apr 2,3,0,0,0
+515,Maryland,Garrett,2.7,Apr 3,3,0,0,0
+516,Maryland,Garrett,3.8,Apr 4,3,0,0,0
+517,Maryland,Garrett,7.9,Apr 5,3,0,0,0
+518,Maryland,Garrett,4.3,Apr 6,3,0,0,0
+519,Maryland,Garrett,4.1,Apr 7,3,0,0,0
+520,Maryland,Garrett,4.6,Apr 8,5,0,0,0
+521,Maryland,Garrett,3.4,Apr 9,5,0,0,0
+522,Maryland,Harford,2.5,Mar 23,5,0,0,0
+523,Maryland,Harford,3.8,Mar 24,5,0,0,0
+524,Maryland,Harford,3.9,Mar 25,5,0,0,0
+525,Maryland,Harford,6.5,Mar 26,9,0,0,0
+526,Maryland,Harford,5.7,Mar 27,18,0,0,0
+527,Maryland,Harford,5.8,Mar 28,21,0,0,0
+528,Maryland,Harford,5.1,Mar 29,23,0,0,0
+529,Maryland,Harford,3.3,Mar 30,24,0,0,0
+530,Maryland,Harford,1.7,Mar 31,25,0,0,0
+531,Maryland,Harford,3.9,Apr 1,34,0,0,0
+532,Maryland,Harford,1.7,Apr 2,37,0,0,0
+533,Maryland,Harford,0.3,Apr 3,41,0,0,0
+534,Maryland,Harford,1.6,Apr 4,44,0,0,0
+535,Maryland,Harford,2.9,Apr 5,52,0,0,0
+536,Maryland,Harford,4.5,Apr 6,55,0,0,0
+537,Maryland,Harford,8.1,Apr 7,59,0,0,0
+538,Maryland,Harford,4.7,Apr 8,86,0,0,0
+539,Maryland,Harford,5.5,Apr 9,101,0,0,0
+540,Maryland,Howard,2.5,Mar 23,26,0,0,0
+541,Maryland,Howard,3.7,Mar 24,30,0,0,0
+542,Maryland,Howard,4.5,Mar 25,35,0,0,0
+543,Maryland,Howard,6.9,Mar 26,49,0,0,0
+544,Maryland,Howard,5.9,Mar 27,62,0,0,0
+545,Maryland,Howard,8.0,Mar 28,73,0,0,0
+546,Maryland,Howard,6.9,Mar 29,81,0,0,0
+547,Maryland,Howard,5.2,Mar 30,96,1,0,0
+548,Maryland,Howard,3.2,Mar 31,117,2,0,0
+549,Maryland,Howard,5.1,Apr 1,142,2,0,0
+550,Maryland,Howard,2.3,Apr 2,152,2,0,0
+551,Maryland,Howard,1.2,Apr 3,166,2,0,0
+552,Maryland,Howard,1.5,Apr 4,180,3,0,0
+553,Maryland,Howard,4.9,Apr 5,199,3,0,0
+554,Maryland,Howard,5.0,Apr 6,214,3,0,0
+555,Maryland,Howard,8.7,Apr 7,236,3,0,0
+556,Maryland,Howard,4.8,Apr 8,274,3,0,0
+557,Maryland,Howard,7.5,Apr 9,299,5,0,0
+558,Maryland,Kent,1.5,Mar 23,0,0,0,0
+559,Maryland,Kent,3.9,Mar 24,0,0,0,0
+560,Maryland,Kent,2.5,Mar 25,1,0,0,0
+561,Maryland,Kent,,Mar 26,1,0,0,0
+562,Maryland,Kent,,Mar 27,2,0,0,0
+563,Maryland,Kent,5.6,Mar 28,2,0,0,0
+564,Maryland,Kent,5.8,Mar 29,3,0,0,0
+565,Maryland,Kent,4.1,Mar 30,3,0,0,0
+566,Maryland,Kent,2.8,Mar 31,3,0,0,0
+567,Maryland,Kent,5.1,Apr 1,3,0,0,0
+568,Maryland,Kent,4.0,Apr 2,5,0,0,0
+569,Maryland,Kent,2.5,Apr 3,5,0,0,0
+570,Maryland,Kent,3.2,Apr 4,5,0,0,0
+571,Maryland,Kent,4.0,Apr 5,5,0,0,0
+572,Maryland,Kent,5.6,Apr 6,5,0,0,0
+573,Maryland,Kent,8.0,Apr 7,8,0,0,0
+574,Maryland,Kent,6.4,Apr 8,9,0,0,0
+575,Maryland,Kent,6.2,Apr 9,9,0,0,0
+576,Maryland,Montgomery,1.8,Mar 23,94,1,0,0
+577,Maryland,Montgomery,3.0,Mar 24,107,1,0,0
+578,Maryland,Montgomery,3.5,Mar 25,127,1,0,0
+579,Maryland,Montgomery,5.6,Mar 26,164,1,0,0
+580,Maryland,Montgomery,4.7,Mar 27,208,1,0,0
+581,Maryland,Montgomery,5.4,Mar 28,255,1,0,0
+582,Maryland,Montgomery,4.6,Mar 29,301,1,0,0
+583,Maryland,Montgomery,3.5,Mar 30,341,1,0,0
+584,Maryland,Montgomery,2.5,Mar 31,388,1,0,0
+585,Maryland,Montgomery,3.2,Apr 1,447,1,0,0
+586,Maryland,Montgomery,2.4,Apr 2,498,6,0,0
+587,Maryland,Montgomery,1.0,Apr 3,566,9,0,0
+588,Maryland,Montgomery,1.5,Apr 4,640,9,0,0
+589,Maryland,Montgomery,4.4,Apr 5,693,13,0,0
+590,Maryland,Montgomery,,Apr 6,793,19,0,0
+591,Maryland,Montgomery,,Apr 7,871,21,0,0
+592,Maryland,Montgomery,3.3,Apr 8,1088,26,0,0
+593,Maryland,Montgomery,6.1,Apr 9,1214,30,0,0
+594,Maryland,Prince George's,1.1,Mar 23,47,1,0,0
+595,Maryland,Prince George's,2.6,Mar 24,63,2,0,0
+596,Maryland,Prince George's,2.0,Mar 25,76,2,0,0
+597,Maryland,Prince George's,5.2,Mar 26,101,2,0,0
+598,Maryland,Prince George's,4.0,Mar 27,148,2,0,0
+599,Maryland,Prince George's,5.2,Mar 28,196,2,0,0
+600,Maryland,Prince George's,5.0,Mar 29,247,3,0,0
+601,Maryland,Prince George's,2.8,Mar 30,294,6,0,0
+602,Maryland,Prince George's,1.9,Mar 31,341,7,0,0
+603,Maryland,Prince George's,3.1,Apr 1,403,7,0,0
+604,Maryland,Prince George's,2.6,Apr 2,473,9,0,0
+605,Maryland,Prince George's,0.8,Apr 3,563,9,0,0
+606,Maryland,Prince George's,1.2,Apr 4,653,13,0,0
+607,Maryland,Prince George's,3.5,Apr 5,785,16,0,0
+608,Maryland,Prince George's,3.9,Apr 6,916,23,0,0
+609,Maryland,Prince George's,6.1,Apr 7,1020,26,0,0
+610,Maryland,Prince George's,3.7,Apr 8,1310,32,0,0
+611,Maryland,Prince George's,5.2,Apr 9,1476,34,0,0
+612,Maryland,Washington,4.4,Mar 23,2,0,0,0
+613,Maryland,Washington,5.6,Mar 24,2,0,0,0
+614,Maryland,Washington,5.0,Mar 25,4,0,0,0
+615,Maryland,Washington,7.2,Mar 26,4,0,0,0
+616,Maryland,Washington,7.0,Mar 27,5,0,0,0
+617,Maryland,Washington,7.2,Mar 28,6,0,0,0
+618,Maryland,Washington,8.0,Mar 29,6,0,0,0
+619,Maryland,Washington,3.4,Mar 30,7,0,0,0
+620,Maryland,Washington,2.4,Mar 31,11,0,0,0
+621,Maryland,Washington,5.4,Apr 1,15,0,0,0
+622,Maryland,Washington,3.5,Apr 2,17,0,0,0
+623,Maryland,Washington,2.1,Apr 3,27,0,0,0
+624,Maryland,Washington,4.1,Apr 4,29,0,0,0
+625,Maryland,Washington,8.5,Apr 5,34,0,0,0
+626,Maryland,Washington,6.2,Apr 6,37,0,0,0
+627,Maryland,Washington,7.9,Apr 7,44,0,0,0
+628,Maryland,Washington,4.0,Apr 8,57,0,0,0
+629,Maryland,Washington,,Apr 9,60,0,0,0
+630,Maryland,Baltimore (City),1.0,Mar 23,0,0,0,0
+631,Maryland,Baltimore (City),3.3,Mar 24,0,0,0,0
+632,Maryland,Baltimore (City),3.2,Mar 25,0,0,0,0
+633,Maryland,Baltimore (City),7.2,Mar 26,0,0,0,0
+634,Maryland,Baltimore (City),8.1,Mar 27,0,0,0,0
+635,Maryland,Baltimore (City),7.2,Mar 28,0,0,0,0
+636,Maryland,Baltimore (City),5.8,Mar 29,0,0,0,0
+637,Maryland,Baltimore (City),3.7,Mar 30,0,0,0,0
+638,Maryland,Baltimore (City),2.0,Mar 31,0,0,0,0
+639,Maryland,Baltimore (City),4.0,Apr 1,0,0,0,0
+640,Maryland,Baltimore (City),1.9,Apr 2,0,0,0,0
+641,Maryland,Baltimore (City),1.2,Apr 3,0,0,0,0
+642,Maryland,Baltimore (City),2.7,Apr 4,0,0,0,0
+643,Maryland,Baltimore (City),3.7,Apr 5,0,0,0,0
+644,Maryland,Baltimore (City),5.4,Apr 6,0,0,0,0
+645,Maryland,Baltimore (City),8.4,Apr 7,0,0,0,0
+646,Maryland,Baltimore (City),4.7,Apr 8,0,0,0,0
+647,Maryland,Baltimore (City),6.7,Apr 9,0,0,0,0
+648,New Hampshire,Cheshire,2.6,Mar 23,1,0,0,0
+649,New Hampshire,Cheshire,4.1,Mar 24,1,0,0,0
+650,New Hampshire,Cheshire,7.5,Mar 25,1,0,0,0
+651,New Hampshire,Cheshire,6.5,Mar 26,1,0,0,0
+652,New Hampshire,Cheshire,3.0,Mar 27,2,0,0,0
+653,New Hampshire,Cheshire,7.2,Mar 28,2,0,0,0
+654,New Hampshire,Cheshire,2.5,Mar 29,2,0,0,0
+655,New Hampshire,Cheshire,0.9,Mar 30,3,0,0,0
+656,New Hampshire,Cheshire,4.2,Mar 31,4,0,0,0
+657,New Hampshire,Cheshire,3.7,Apr 1,4,0,0,0
+658,New Hampshire,Cheshire,0.5,Apr 2,8,0,0,0
+659,New Hampshire,Cheshire,0.5,Apr 3,8,0,0,0
+660,New Hampshire,Cheshire,1.8,Apr 4,9,0,0,0
+661,New Hampshire,Cheshire,6.7,Apr 5,10,0,0,0
+662,New Hampshire,Cheshire,3.5,Apr 6,13,0,0,0
+663,New Hampshire,Cheshire,4.4,Apr 7,13,0,0,0
+664,New Hampshire,Cheshire,2.7,Apr 8,13,0,0,0
+665,New Hampshire,Cheshire,4.4,Apr 9,14,0,0,0
+666,New Hampshire,Grafton,4.4,Mar 23,15,0,0,0
+667,New Hampshire,Grafton,2.2,Mar 24,20,0,0,0
+668,New Hampshire,Grafton,6.4,Mar 25,21,0,0,0
+669,New Hampshire,Grafton,6.6,Mar 26,22,0,0,0
+670,New Hampshire,Grafton,3.2,Mar 27,23,0,0,0
+671,New Hampshire,Grafton,3.7,Mar 28,26,0,0,0
+672,New Hampshire,Grafton,3.0,Mar 29,28,0,0,0
+673,New Hampshire,Grafton,0.9,Mar 30,29,0,0,0
+674,New Hampshire,Grafton,3.0,Mar 31,34,0,0,0
+675,New Hampshire,Grafton,2.6,Apr 1,34,0,0,0
+676,New Hampshire,Grafton,0.3,Apr 2,38,0,0,0
+677,New Hampshire,Grafton,1.1,Apr 3,38,0,0,0
+678,New Hampshire,Grafton,1.0,Apr 4,38,0,0,0
+679,New Hampshire,Grafton,3.6,Apr 5,41,0,0,0
+680,New Hampshire,Grafton,2.2,Apr 6,41,0,0,0
+681,New Hampshire,Grafton,3.3,Apr 7,41,0,0,0
+682,New Hampshire,Grafton,3.0,Apr 8,41,0,0,0
+683,New Hampshire,Grafton,2.1,Apr 9,43,0,0,0
+684,New Hampshire,Hillsborough,2.2,Mar 23,16,1,0,0
+685,New Hampshire,Hillsborough,1.9,Mar 24,19,1,0,0
+686,New Hampshire,Hillsborough,4.0,Mar 25,20,1,0,0
+687,New Hampshire,Hillsborough,2.9,Mar 26,30,1,0,0
+688,New Hampshire,Hillsborough,2.7,Mar 27,31,1,0,0
+689,New Hampshire,Hillsborough,2.8,Mar 28,43,2,0,0
+690,New Hampshire,Hillsborough,0.2,Mar 29,53,2,0,0
+691,New Hampshire,Hillsborough,0.3,Mar 30,69,2,0,0
+692,New Hampshire,Hillsborough,2.1,Mar 31,99,2,0,0
+693,New Hampshire,Hillsborough,1.6,Apr 1,99,2,0,0
+694,New Hampshire,Hillsborough,0.3,Apr 2,0,0,0,0
+695,New Hampshire,Hillsborough,0.4,Apr 3,163,2,0,0
+696,New Hampshire,Hillsborough,0.5,Apr 4,194,2,0,0
+697,New Hampshire,Hillsborough,5.7,Apr 5,231,2,0,0
+698,New Hampshire,Hillsborough,0.9,Apr 6,272,2,0,0
+699,New Hampshire,Hillsborough,2.2,Apr 7,272,2,0,0
+700,New Hampshire,Hillsborough,2.3,Apr 8,288,2,0,0
+701,New Hampshire,Hillsborough,1.5,Apr 9,303,2,0,0
+702,New Hampshire,Rockingham,5.75,Mar 23,28,0,0,0
+703,New Hampshire,Rockingham,3.3,Mar 24,38,0,0,0
+704,New Hampshire,Rockingham,5.9,Mar 25,42,0,0,0
+705,New Hampshire,Rockingham,6.05,Mar 26,56,0,0,0
+706,New Hampshire,Rockingham,4.85,Mar 27,67,0,0,0
+707,New Hampshire,Rockingham,6.3,Mar 28,75,0,0,0
+708,New Hampshire,Rockingham,5.8,Mar 29,86,0,0,0
+709,New Hampshire,Rockingham,3.4,Mar 30,100,1,0,0
+710,New Hampshire,Rockingham,4.9,Mar 31,137,1,0,0
+711,New Hampshire,Rockingham,3.5,Apr 1,137,1,0,0
+712,New Hampshire,Rockingham,3.65,Apr 2,170,1,0,0
+713,New Hampshire,Rockingham,1.55,Apr 3,170,1,0,0
+714,New Hampshire,Rockingham,5.05,Apr 4,190,1,0,0
+715,New Hampshire,Rockingham,8.95,Apr 5,213,1,0,0
+716,New Hampshire,Rockingham,4.2,Apr 6,246,1,0,0
+717,New Hampshire,Rockingham,5.6,Apr 7,246,1,0,0
+718,New Hampshire,Rockingham,6.35,Apr 8,255,1,0,0
+719,New Hampshire,Rockingham,6.55,Apr 9,268,1,0,0
+720,New Jersey,Atlantic,4.6,Mar 23,6,0,0,0
+721,New Jersey,Atlantic,3.3,Mar 24,6,0,0,0
+722,New Jersey,Atlantic,5.1,Mar 25,12,0,0,0
+723,New Jersey,Atlantic,5.0,Mar 26,10,0,0,0
+724,New Jersey,Atlantic,7.2,Mar 27,14,0,0,0
+725,New Jersey,Atlantic,4.1,Mar 28,17,0,0,0
+726,New Jersey,Atlantic,3.1,Mar 29,24,0,0,0
+727,New Jersey,Atlantic,5.4,Mar 30,29,0,0,0
+728,New Jersey,Atlantic,3.2,Mar 31,31,0,0,0
+729,New Jersey,Atlantic,4.8,Apr 1,40,0,0,0
+730,New Jersey,Atlantic,2.5,Apr 2,50,1,0,0
+731,New Jersey,Atlantic,2.7,Apr 3,72,1,0,0
+732,New Jersey,Atlantic,4.6,Apr 4,98,1,0,0
+733,New Jersey,Atlantic,4.3,Apr 5,121,1,0,0
+734,New Jersey,Atlantic,5.8,Apr 6,132,1,0,0
+735,New Jersey,Atlantic,7.5,Apr 7,144,4,0,0
+736,New Jersey,Atlantic,9.8,Apr 8,168,4,0,0
+737,New Jersey,Atlantic,6.5,Apr 9,191,4,0,0
+738,New Jersey,Bergen,4.6,Mar 23,609,6,0,0
+739,New Jersey,Bergen,6.0,Mar 24,701,6,0,0
+740,New Jersey,Bergen,5.9,Mar 25,819,6,0,0
+741,New Jersey,Bergen,,Mar 26,1206,6,0,0
+742,New Jersey,Bergen,,Mar 27,1505,6,0,0
+743,New Jersey,Bergen,,Mar 28,1838,13,0,0
+744,New Jersey,Bergen,,Mar 29,2169,23,0,0
+745,New Jersey,Bergen,,Mar 30,2482,23,0,0
+746,New Jersey,Bergen,,Mar 31,2909,4,0,0
+747,New Jersey,Bergen,,Apr 1,3494,75,0,0
+748,New Jersey,Bergen,,Apr 2,4099,120,0,0
+749,New Jersey,Bergen,,Apr 3,4866,132,0,0
+750,New Jersey,Bergen,,Apr 4,5760,179,0,0
+751,New Jersey,Bergen,,Apr 5,6187,189,0,0
+752,New Jersey,Bergen,,Apr 6,6862,200,0,0
+753,New Jersey,Bergen,,Apr 7,7533,263,0,0
+754,New Jersey,Bergen,,Apr 8,7874,314,0,0
+755,New Jersey,Bergen,,Apr 9,8343,345,0,0
+756,New Jersey,Camden,,Mar 23,33,1,0,0
+757,New Jersey,Camden,5.4,Mar 24,51,1,0,0
+758,New Jersey,Camden,5.2,Mar 25,61,1,0,0
+759,New Jersey,Camden,7.6,Mar 26,73,1,0,0
+760,New Jersey,Camden,6.6,Mar 27,95,1,0,0
+761,New Jersey,Camden,6.9,Mar 28,123,1,0,0
+762,New Jersey,Camden,3.7,Mar 29,163,1,0,0
+763,New Jersey,Camden,6.2,Mar 30,200,1,0,0
+764,New Jersey,Camden,6.4,Mar 31,228,3,0,0
+765,New Jersey,Camden,4.0,Apr 1,289,3,0,0
+766,New Jersey,Camden,3.5,Apr 2,343,6,0,0
+767,New Jersey,Camden,3.7,Apr 3,406,7,0,0
+768,New Jersey,Camden,2.8,Apr 4,481,8,0,0
+769,New Jersey,Camden,7.5,Apr 5,556,8,0,0
+770,New Jersey,Camden,5.2,Apr 6,645,8,0,0
+771,New Jersey,Camden,8.3,Apr 7,736,12,0,0
+772,New Jersey,Camden,5.7,Apr 8,838,22,0,0
+773,New Jersey,Camden,,Apr 9,990,23,0,0
+774,New Jersey,Cumberland,,Mar 23,1,0,0,0
+775,New Jersey,Cumberland,10.5,Mar 24,2,0,0,0
+776,New Jersey,Cumberland,4.2,Mar 25,3,0,0,0
+777,New Jersey,Cumberland,8.9,Mar 26,4,0,0,0
+778,New Jersey,Cumberland,6.4,Mar 27,9,0,0,0
+779,New Jersey,Cumberland,,Mar 28,11,0,0,0
+780,New Jersey,Cumberland,4.5,Mar 29,11,0,0,0
+781,New Jersey,Cumberland,7.7,Mar 30,12,1,0,0
+782,New Jersey,Cumberland,4.7,Mar 31,18,1,0,0
+783,New Jersey,Cumberland,5.8,Apr 1,27,1,0,0
+784,New Jersey,Cumberland,3.7,Apr 2,31,1,0,0
+785,New Jersey,Cumberland,,Apr 3,36,1,0,0
+786,New Jersey,Cumberland,,Apr 4,40,2,0,0
+787,New Jersey,Cumberland,2.1,Apr 5,54,2,0,0
+788,New Jersey,Cumberland,7.9,Apr 6,64,2,0,0
+789,New Jersey,Cumberland,6.3,Apr 7,71,2,0,0
+790,New Jersey,Cumberland,7.1,Apr 8,80,2,0,0
+791,New Jersey,Cumberland,7.9,Apr 9,111,3,0,0
+792,New Jersey,Essex,1.6,Mar 23,273,4,0,0
+793,New Jersey,Essex,4.0,Mar 24,342,4,0,0
+794,New Jersey,Essex,5.1,Mar 25,381,4,0,0
+795,New Jersey,Essex,7.5,Mar 26,609,4,0,0
+796,New Jersey,Essex,6.4,Mar 27,826,4,0,0
+797,New Jersey,Essex,4.7,Mar 28,1086,7,0,0
+798,New Jersey,Essex,2.9,Mar 29,1227,13,0,0
+799,New Jersey,Essex,10.3,Mar 30,1564,13,0,0
+800,New Jersey,Essex,4.9,Mar 31,1900,4,0,0
+801,New Jersey,Essex,6.5,Apr 1,2262,69,0,0
+802,New Jersey,Essex,2.7,Apr 2,2617,99,0,0
+803,New Jersey,Essex,2.4,Apr 3,3067,118,0,0
+804,New Jersey,Essex,4.5,Apr 4,3584,155,0,0
+805,New Jersey,Essex,10.8,Apr 5,4082,172,0,0
+806,New Jersey,Essex,8.5,Apr 6,4493,186,0,0
+807,New Jersey,Essex,5.0,Apr 7,5078,232,0,0
+808,New Jersey,Essex,9.1,Apr 8,5598,276,0,0
+809,New Jersey,Essex,4.8,Apr 9,6069,321,0,0
+810,New Jersey,Hudson,3.4,Mar 23,190,1,0,0
+811,New Jersey,Hudson,5.0,Mar 24,234,1,0,0
+812,New Jersey,Hudson,7.4,Mar 25,260,1,0,0
+813,New Jersey,Hudson,8.2,Mar 26,441,1,0,0
+814,New Jersey,Hudson,6.9,Mar 27,594,2,0,0
+815,New Jersey,Hudson,6.6,Mar 28,771,4,0,0
+816,New Jersey,Hudson,3.4,Mar 29,974,6,0,0
+817,New Jersey,Hudson,10.0,Mar 30,1314,7,0,0
+818,New Jersey,Hudson,5.5,Mar 31,1606,2,0,0
+819,New Jersey,Hudson,5.5,Apr 1,1910,29,0,0
+820,New Jersey,Hudson,2.5,Apr 2,2270,44,0,0
+821,New Jersey,Hudson,2.3,Apr 3,2835,59,0,0
+822,New Jersey,Hudson,3.1,Apr 4,3491,78,0,0
+823,New Jersey,Hudson,12.5,Apr 5,3924,87,0,0
+824,New Jersey,Hudson,7.5,Apr 6,4395,92,0,0
+825,New Jersey,Hudson,5.7,Apr 7,4949,103,0,0
+826,New Jersey,Hudson,10.6,Apr 8,5437,122,0,0
+827,New Jersey,Hudson,6.0,Apr 9,5879,132,0,0
+828,New Jersey,Hunterdon,2.3,Mar 23,18,0,0,0
+829,New Jersey,Hunterdon,3.2,Mar 24,25,0,0,0
+830,New Jersey,Hunterdon,5.0,Mar 25,25,0,0,0
+831,New Jersey,Hunterdon,7.5,Mar 26,39,0,0,0
+832,New Jersey,Hunterdon,6.5,Mar 27,52,0,0,0
+833,New Jersey,Hunterdon,7.2,Mar 28,61,0,0,0
+834,New Jersey,Hunterdon,2.0,Mar 29,66,0,0,0
+835,New Jersey,Hunterdon,6.2,Mar 30,79,0,0,0
+836,New Jersey,Hunterdon,5.1,Mar 31,97,0,0,0
+837,New Jersey,Hunterdon,4.9,Apr 1,117,0,0,0
+838,New Jersey,Hunterdon,2.1,Apr 2,130,0,0,0
+839,New Jersey,Hunterdon,2.4,Apr 3,148,0,0,0
+840,New Jersey,Hunterdon,4.2,Apr 4,171,1,0,0
+841,New Jersey,Hunterdon,10.7,Apr 5,189,2,0,0
+842,New Jersey,Hunterdon,5.7,Apr 6,211,2,0,0
+843,New Jersey,Hunterdon,8.4,Apr 7,234,2,0,0
+844,New Jersey,Hunterdon,8.6,Apr 8,255,2,0,0
+845,New Jersey,Hunterdon,5.2,Apr 9,286,4,0,0
+846,New Jersey,Mercer,,Mar 23,50,0,0,0
+847,New Jersey,Mercer,,Mar 24,58,0,0,0
+848,New Jersey,Mercer,,Mar 25,82,0,0,0
+849,New Jersey,Mercer,10.1,Mar 26,111,0,0,0
+850,New Jersey,Mercer,7.5,Mar 27,131,0,0,0
+851,New Jersey,Mercer,3.1,Mar 28,168,0,0,0
+852,New Jersey,Mercer,2.6,Mar 29,202,0,0,0
+853,New Jersey,Mercer,7.0,Mar 30,249,0,0,0
+854,New Jersey,Mercer,3.4,Mar 31,268,0,0,0
+855,New Jersey,Mercer,5.1,Apr 1,333,3,0,0
+856,New Jersey,Mercer,3.5,Apr 2,386,4,0,0
+857,New Jersey,Mercer,4.7,Apr 3,484,5,0,0
+858,New Jersey,Mercer,9.8,Apr 4,586,13,0,0
+859,New Jersey,Mercer,8.3,Apr 5,654,16,0,0
+860,New Jersey,Mercer,18.5,Apr 6,740,19,0,0
+861,New Jersey,Mercer,9.8,Apr 7,837,24,0,0
+862,New Jersey,Mercer,7.8,Apr 8,992,28,0,0
+863,New Jersey,Mercer,6.1,Apr 9,1161,36,0,0
+864,New Jersey,Middlesex,2.6,Mar 23,210,0,0,0
+865,New Jersey,Middlesex,3.4,Mar 24,277,0,0,0
+866,New Jersey,Middlesex,5.5,Mar 25,316,0,0,0
+867,New Jersey,Middlesex,6.1,Mar 26,505,0,0,0
+868,New Jersey,Middlesex,7.0,Mar 27,640,0,0,0
+869,New Jersey,Middlesex,8.8,Mar 28,808,4,0,0
+870,New Jersey,Middlesex,5.5,Mar 29,938,12,0,0
+871,New Jersey,Middlesex,8.5,Mar 30,1123,12,0,0
+872,New Jersey,Middlesex,4.7,Mar 31,1277,0,0,0
+873,New Jersey,Middlesex,4.3,Apr 1,1493,27,0,0
+874,New Jersey,Middlesex,3.2,Apr 2,1766,48,0,0
+875,New Jersey,Middlesex,2.5,Apr 3,2125,56,0,0
+876,New Jersey,Middlesex,4.5,Apr 4,2578,76,0,0
+877,New Jersey,Middlesex,10.3,Apr 5,2950,80,0,0
+878,New Jersey,Middlesex,5.6,Apr 6,3263,87,0,0
+879,New Jersey,Middlesex,7.1,Apr 7,3717,100,0,0
+880,New Jersey,Middlesex,10.6,Apr 8,4156,139,0,0
+881,New Jersey,Middlesex,5.9,Apr 9,4628,152,0,0
+882,New Jersey,Union,4.35,Mar 23,189,0,0,0
+883,New Jersey,Union,3.2,Mar 24,246,0,0,0
+884,New Jersey,Union,6.3,Mar 25,262,0,0,0
+885,New Jersey,Union,6.05,Mar 26,432,0,0,0
+886,New Jersey,Union,6.65,Mar 27,519,0,0,0
+887,New Jersey,Union,7.25,Mar 28,742,0,0,0
+888,New Jersey,Union,3.75,Mar 29,896,7,0,0
+889,New Jersey,Union,7.95,Mar 30,1213,7,0,0
+890,New Jersey,Union,4.35,Mar 31,1418,0,0,0
+891,New Jersey,Union,4.7,Apr 1,1661,29,0,0
+892,New Jersey,Union,2.3,Apr 2,2010,34,0,0
+893,New Jersey,Union,1.9,Apr 3,2487,45,0,0
+894,New Jersey,Union,3.3,Apr 4,2916,66,0,0
+895,New Jersey,Union,12.0,Apr 5,3216,71,0,0
+896,New Jersey,Union,6.15,Apr 6,3685,78,0,0
+897,New Jersey,Union,4.55,Apr 7,4368,95,0,0
+898,New Jersey,Union,9.05,Apr 8,4831,125,0,0
+899,New Jersey,Union,6.15,Apr 9,5203,145,0,0
+900,New Jersey,Warren,3.2,Mar 23,12,0,0,0
+901,New Jersey,Warren,4.5,Mar 24,15,0,0,0
+902,New Jersey,Warren,5.1,Mar 25,18,0,0,0
+903,New Jersey,Warren,10.1,Mar 26,31,0,0,0
+904,New Jersey,Warren,5.6,Mar 27,38,0,0,0
+905,New Jersey,Warren,5.9,Mar 28,51,0,0,0
+906,New Jersey,Warren,2.5,Mar 29,56,1,0,0
+907,New Jersey,Warren,5.1,Mar 30,68,1,0,0
+908,New Jersey,Warren,3.4,Mar 31,76,0,0,0
+909,New Jersey,Warren,6.5,Apr 1,96,3,0,0
+910,New Jersey,Warren,2.3,Apr 2,116,3,0,0
+911,New Jersey,Warren,3.3,Apr 3,149,3,0,0
+912,New Jersey,Warren,2.4,Apr 4,182,6,0,0
+913,New Jersey,Warren,7.4,Apr 5,195,6,0,0
+914,New Jersey,Warren,4.8,Apr 6,215,7,0,0
+915,New Jersey,Warren,7.0,Apr 7,255,7,0,0
+916,New Jersey,Warren,7.5,Apr 8,289,9,0,0
+917,New Jersey,Warren,4.6,Apr 9,319,9,0,0
+918,New York,Albany,5.4,Mar 23,127,0,0,0
+919,New York,Albany,7.2,Mar 24,146,0,0,0
+920,New York,Albany,10.7,Mar 25,152,0,0,0
+921,New York,Albany,9.1,Mar 26,171,0,0,0
+922,New York,Albany,4.5,Mar 27,187,0,0,0
+923,New York,Albany,8.9,Mar 28,195,0,0,0
+924,New York,Albany,5.0,Mar 29,205,1,0,0
+925,New York,Albany,1.8,Mar 30,217,1,0,0
+926,New York,Albany,2.9,Mar 31,226,1,0,0
+927,New York,Albany,5.4,Apr 1,240,1,0,0
+928,New York,Albany,3.6,Apr 2,253,2,0,0
+929,New York,Albany,3.1,Apr 3,267,2,0,0
+930,New York,Albany,4.2,Apr 4,293,6,0,0
+931,New York,Albany,5.2,Apr 5,305,8,0,0
+932,New York,Albany,3.8,Apr 6,319,8,0,0
+933,New York,Albany,4.9,Apr 7,333,8,0,0
+934,New York,Albany,5.1,Apr 8,342,9,0,0
+935,New York,Albany,6.5,Apr 9,379,11,0,0
+936,New York,Erie,4.1,Mar 23,87,0,0,0
+937,New York,Erie,4.7,Mar 24,114,0,0,0
+938,New York,Erie,6.1,Mar 25,122,1,0,0
+939,New York,Erie,6.5,Mar 26,206,2,0,0
+940,New York,Erie,4.0,Mar 27,245,5,0,0
+941,New York,Erie,3.1,Mar 28,318,6,0,0
+942,New York,Erie,3.4,Mar 29,414,7,0,0
+943,New York,Erie,3.0,Mar 30,443,7,0,0
+944,New York,Erie,3.9,Mar 31,499,8,0,0
+945,New York,Erie,3.9,Apr 1,582,11,0,0
+946,New York,Erie,4.8,Apr 2,617,12,0,0
+947,New York,Erie,4.6,Apr 3,734,19,0,0
+948,New York,Erie,6.0,Apr 4,808,22,0,0
+949,New York,Erie,6.4,Apr 5,1059,27,0,0
+950,New York,Erie,4.0,Apr 6,1148,30,0,0
+951,New York,Erie,,Apr 7,1234,39,0,0
+952,New York,Erie,1.6,Apr 8,1335,45,0,0
+953,New York,Erie,1.8,Apr 9,1432,51,0,0
+954,New York,Essex,1.8,Mar 23,3,0,0,0
+955,New York,Essex,3.0,Mar 24,3,0,0,0
+956,New York,Essex,3.9,Mar 25,4,0,0,0
+957,New York,Essex,2.4,Mar 26,5,0,0,0
+958,New York,Essex,2.7,Mar 27,5,0,0,0
+959,New York,Essex,3.6,Mar 28,5,0,0,0
+960,New York,Essex,1.2,Mar 29,5,0,0,0
+961,New York,Essex,0.1,Mar 30,5,0,0,0
+962,New York,Essex,0.8,Mar 31,5,0,0,0
+963,New York,Essex,2.2,Apr 1,6,0,0,0
+964,New York,Essex,1.5,Apr 2,7,0,0,0
+965,New York,Essex,2.2,Apr 3,7,0,0,0
+966,New York,Essex,2.8,Apr 4,7,0,0,0
+967,New York,Essex,2.5,Apr 5,9,0,0,0
+968,New York,Essex,1.5,Apr 6,9,0,0,0
+969,New York,Essex,1.7,Apr 7,9,0,0,0
+970,New York,Essex,3.1,Apr 8,9,0,0,0
+971,New York,Essex,1.8,Apr 9,8,0,0,0
+972,New York,Monroe,5.3,Mar 23,81,2,0,0
+973,New York,Monroe,3.9,Mar 24,106,3,0,0
+974,New York,Monroe,4.4,Mar 25,118,3,0,0
+975,New York,Monroe,5.65,Mar 26,148,4,0,0
+976,New York,Monroe,4.5,Mar 27,166,4,0,0
+977,New York,Monroe,5.25,Mar 28,202,5,0,0
+978,New York,Monroe,3.75,Mar 29,219,5,0,0
+979,New York,Monroe,2.9,Mar 30,246,6,0,0
+980,New York,Monroe,4.45,Mar 31,257,8,0,0
+981,New York,Monroe,4.3,Apr 1,349,9,0,0
+982,New York,Monroe,3.8,Apr 2,420,9,0,0
+983,New York,Monroe,2.05,Apr 3,464,10,0,0
+984,New York,Monroe,6.55,Apr 4,512,14,0,0
+985,New York,Monroe,6.2,Apr 5,548,19,0,0
+986,New York,Monroe,3.6,Apr 6,574,26,0,0
+987,New York,Monroe,4.95,Apr 7,596,31,0,0
+988,New York,Monroe,7.15,Apr 8,651,34,0,0
+989,New York,Monroe,5.35,Apr 9,698,40,0,0
+990,New York,Queens,2.6,Mar 23,0,0,0,0
+991,New York,Queens,2.95,Mar 24,0,0,0,0
+992,New York,Queens,4.05,Mar 25,0,0,0,0
+993,New York,Queens,5.8,Mar 26,0,0,0,0
+994,New York,Queens,5.8,Mar 27,0,0,0,0
+995,New York,Queens,4.25,Mar 28,0,0,0,0
+996,New York,Queens,0.65,Mar 29,0,0,0,0
+997,New York,Queens,4.0,Mar 30,0,0,0,0
+998,New York,Queens,1.9,Mar 31,0,0,0,0
+999,New York,Queens,3.25,Apr 1,0,0,0,0
+1000,New York,Queens,2.25,Apr 2,0,0,0,0
+1001,New York,Queens,1.65,Apr 3,0,0,0,0
+1002,New York,Queens,1.95,Apr 4,0,0,0,0
+1003,New York,Queens,7.75,Apr 5,0,0,0,0
+1004,New York,Queens,3.8,Apr 6,0,0,0,0
+1005,New York,Queens,4.35,Apr 7,0,0,0,0
+1006,New York,Queens,8.65,Apr 8,0,0,0,0
+1007,New York,Queens,3.55,Apr 9,0,0,0,0
+1008,New York,Steuben,4.4,Mar 23,4,0,0,0
+1009,New York,Steuben,3.8,Mar 24,8,0,0,0
+1010,New York,Steuben,5.4,Mar 25,8,0,0,0
+1011,New York,Steuben,5.1,Mar 26,11,0,0,0
+1012,New York,Steuben,5.9,Mar 27,12,0,0,0
+1013,New York,Steuben,4.1,Mar 28,13,0,0,0
+1014,New York,Steuben,4.1,Mar 29,17,0,0,0
+1015,New York,Steuben,2.1,Mar 30,19,0,0,0
+1016,New York,Steuben,2.4,Mar 31,19,0,0,0
+1017,New York,Steuben,4.9,Apr 1,38,0,0,0
+1018,New York,Steuben,4.4,Apr 2,43,0,0,0
+1019,New York,Steuben,2.3,Apr 3,46,0,0,0
+1020,New York,Steuben,2.3,Apr 4,60,0,0,0
+1021,New York,Steuben,6.8,Apr 5,73,1,0,0
+1022,New York,Steuben,4.1,Apr 6,75,4,0,0
+1023,New York,Steuben,4.4,Apr 7,75,5,0,0
+1024,New York,Steuben,4.9,Apr 8,87,6,0,0
+1025,New York,Steuben,4.3,Apr 9,92,6,0,0
+1026,Pennsylvania,Adams,5.9,Mar 23,6,0,0,0
+1027,Pennsylvania,Adams,7.0,Mar 24,6,0,0,0
+1028,Pennsylvania,Adams,11.1,Mar 25,6,0,0,0
+1029,Pennsylvania,Adams,9.1,Mar 26,7,0,0,0
+1030,Pennsylvania,Adams,7.3,Mar 27,8,0,0,0
+1031,Pennsylvania,Adams,10.9,Mar 28,8,0,0,0
+1032,Pennsylvania,Adams,9.8,Mar 29,8,0,0,0
+1033,Pennsylvania,Adams,6.9,Mar 30,8,0,0,0
+1034,Pennsylvania,Adams,5.7,Mar 31,9,0,0,0
+1035,Pennsylvania,Adams,7.7,Apr 1,12,0,0,0
+1036,Pennsylvania,Adams,4.2,Apr 2,18,0,0,0
+1037,Pennsylvania,Adams,3.1,Apr 3,19,0,0,0
+1038,Pennsylvania,Adams,3.5,Apr 4,21,0,0,0
+1039,Pennsylvania,Adams,8.6,Apr 5,22,0,0,0
+1040,Pennsylvania,Adams,6.1,Apr 6,25,0,0,0
+1041,Pennsylvania,Adams,7.9,Apr 7,28,0,0,0
+1042,Pennsylvania,Adams,5.2,Apr 8,33,0,0,0
+1043,Pennsylvania,Adams,4.7,Apr 9,38,1,0,0
+1044,Pennsylvania,Allegheny,7.13,Mar 23,48,1,0,0
+1045,Pennsylvania,Allegheny,10.03,Mar 24,58,2,0,0
+1046,Pennsylvania,Allegheny,7.0,Mar 25,88,2,0,0
+1047,Pennsylvania,Allegheny,12.2,Mar 26,133,2,0,0
+1048,Pennsylvania,Allegheny,11.4,Mar 27,158,2,0,0
+1049,Pennsylvania,Allegheny,12.8,Mar 28,219,2,0,0
+1050,Pennsylvania,Allegheny,5.87,Mar 29,265,2,0,0
+1051,Pennsylvania,Allegheny,3.3,Mar 30,290,2,0,0
+1052,Pennsylvania,Allegheny,5.8,Mar 31,325,2,0,0
+1053,Pennsylvania,Allegheny,5.43,Apr 1,356,2,0,0
+1054,Pennsylvania,Allegheny,5.27,Apr 2,419,2,0,0
+1055,Pennsylvania,Allegheny,4.97,Apr 3,476,2,0,0
+1056,Pennsylvania,Allegheny,9.53,Apr 4,552,3,0,0
+1057,Pennsylvania,Allegheny,18.5,Apr 5,605,4,0,0
+1058,Pennsylvania,Allegheny,8.2,Apr 6,642,4,0,0
+1059,Pennsylvania,Allegheny,14.4,Apr 7,689,6,0,0
+1060,Pennsylvania,Allegheny,6.9,Apr 8,720,10,0,0
+1061,Pennsylvania,Allegheny,5.7,Apr 9,759,12,0,0
+1062,Pennsylvania,Beaver,8.2,Mar 23,3,0,0,0
+1063,Pennsylvania,Beaver,9.9,Mar 24,3,0,0,0
+1064,Pennsylvania,Beaver,7.6,Mar 25,7,0,0,0
+1065,Pennsylvania,Beaver,9.8,Mar 26,13,0,0,0
+1066,Pennsylvania,Beaver,11.7,Mar 27,14,0,0,0
+1067,Pennsylvania,Beaver,11.6,Mar 28,22,0,0,0
+1068,Pennsylvania,Beaver,5.5,Mar 29,28,0,0,0
+1069,Pennsylvania,Beaver,3.1,Mar 30,44,0,0,0
+1070,Pennsylvania,Beaver,5.3,Mar 31,52,1,0,0
+1071,Pennsylvania,Beaver,4.8,Apr 1,54,2,0,0
+1072,Pennsylvania,Beaver,5.8,Apr 2,55,2,0,0
+1073,Pennsylvania,Beaver,4.8,Apr 3,65,2,0,0
+1074,Pennsylvania,Beaver,9.0,Apr 4,69,6,0,0
+1075,Pennsylvania,Beaver,12.7,Apr 5,84,6,0,0
+1076,Pennsylvania,Beaver,7.7,Apr 6,96,6,0,0
+1077,Pennsylvania,Beaver,11.0,Apr 7,116,9,0,0
+1078,Pennsylvania,Beaver,7.0,Apr 8,128,13,0,0
+1079,Pennsylvania,Beaver,5.0,Apr 9,129,13,0,0
+1080,Pennsylvania,Blair,5.6,Mar 23,0,0,0,0
+1081,Pennsylvania,Blair,4.1,Mar 24,0,0,0,0
+1082,Pennsylvania,Blair,5.5,Mar 25,0,0,0,0
+1083,Pennsylvania,Blair,8.7,Mar 26,1,0,0,0
+1084,Pennsylvania,Blair,8.2,Mar 27,1,0,0,0
+1085,Pennsylvania,Blair,6.8,Mar 28,2,0,0,0
+1086,Pennsylvania,Blair,7.3,Mar 29,3,0,0,0
+1087,Pennsylvania,Blair,3.1,Mar 30,6,0,0,0
+1088,Pennsylvania,Blair,3.5,Mar 31,4,0,0,0
+1089,Pennsylvania,Blair,5.6,Apr 1,4,0,0,0
+1090,Pennsylvania,Blair,4.2,Apr 2,4,0,0,0
+1091,Pennsylvania,Blair,2.8,Apr 3,4,0,0,0
+1092,Pennsylvania,Blair,3.3,Apr 4,5,0,0,0
+1093,Pennsylvania,Blair,9.7,Apr 5,5,0,0,0
+1094,Pennsylvania,Blair,5.5,Apr 6,5,0,0,0
+1095,Pennsylvania,Blair,6.6,Apr 7,6,0,0,0
+1096,Pennsylvania,Blair,5.1,Apr 8,6,0,0,0
+1097,Pennsylvania,Blair,4.8,Apr 9,6,0,0,0
+1098,Pennsylvania,Bradford,4.7,Mar 23,0,0,0,0
+1099,Pennsylvania,Bradford,3.7,Mar 24,1,0,0,0
+1100,Pennsylvania,Bradford,5.9,Mar 25,1,0,0,0
+1101,Pennsylvania,Bradford,7.3,Mar 26,2,0,0,0
+1102,Pennsylvania,Bradford,5.9,Mar 27,2,0,0,0
+1103,Pennsylvania,Bradford,6.5,Mar 28,3,0,0,0
+1104,Pennsylvania,Bradford,4.4,Mar 29,3,0,0,0
+1105,Pennsylvania,Bradford,3.2,Mar 30,3,0,0,0
+1106,Pennsylvania,Bradford,3.5,Mar 31,7,0,0,0
+1107,Pennsylvania,Bradford,4.2,Apr 1,8,0,0,0
+1108,Pennsylvania,Bradford,5.4,Apr 2,8,0,0,0
+1109,Pennsylvania,Bradford,2.1,Apr 3,9,0,0,0
+1110,Pennsylvania,Bradford,3.2,Apr 4,10,0,0,0
+1111,Pennsylvania,Bradford,7.6,Apr 5,10,0,0,0
+1112,Pennsylvania,Bradford,5.2,Apr 6,10,0,0,0
+1113,Pennsylvania,Bradford,6.6,Apr 7,14,0,0,0
+1114,Pennsylvania,Bradford,4.5,Apr 8,15,0,0,0
+1115,Pennsylvania,Bradford,4.9,Apr 9,15,0,0,0
+1116,Pennsylvania,Cambria,5.0,Mar 23,1,0,0,0
+1117,Pennsylvania,Cambria,8.0,Mar 24,1,0,0,0
+1118,Pennsylvania,Cambria,5.3,Mar 25,1,0,0,0
+1119,Pennsylvania,Cambria,8.6,Mar 26,1,0,0,0
+1120,Pennsylvania,Cambria,9.0,Mar 27,1,0,0,0
+1121,Pennsylvania,Cambria,7.7,Mar 28,1,0,0,0
+1122,Pennsylvania,Cambria,6.2,Mar 29,1,0,0,0
+1123,Pennsylvania,Cambria,3.1,Mar 30,2,0,0,0
+1124,Pennsylvania,Cambria,4.3,Mar 31,2,0,0,0
+1125,Pennsylvania,Cambria,3.7,Apr 1,3,0,0,0
+1126,Pennsylvania,Cambria,4.5,Apr 2,4,0,0,0
+1127,Pennsylvania,Cambria,3.6,Apr 3,4,0,0,0
+1128,Pennsylvania,Cambria,7.8,Apr 4,6,0,0,0
+1129,Pennsylvania,Cambria,13.1,Apr 5,7,0,0,0
+1130,Pennsylvania,Cambria,7.6,Apr 6,7,0,0,0
+1131,Pennsylvania,Cambria,8.3,Apr 7,7,1,0,0
+1132,Pennsylvania,Cambria,6.2,Apr 8,9,1,0,0
+1133,Pennsylvania,Cambria,5.4,Apr 9,10,1,0,0
+1134,Pennsylvania,Centre,5.1,Mar 23,3,0,0,0
+1135,Pennsylvania,Centre,4.1,Mar 24,7,0,0,0
+1136,Pennsylvania,Centre,6.5,Mar 25,8,0,0,0
+1137,Pennsylvania,Centre,7.2,Mar 26,9,0,0,0
+1138,Pennsylvania,Centre,9.4,Mar 27,11,0,0,0
+1139,Pennsylvania,Centre,5.7,Mar 28,15,0,0,0
+1140,Pennsylvania,Centre,8.7,Mar 29,22,0,0,0
+1141,Pennsylvania,Centre,3.4,Mar 30,24,0,0,0
+1142,Pennsylvania,Centre,3.8,Mar 31,26,0,0,0
+1143,Pennsylvania,Centre,6.2,Apr 1,27,0,0,0
+1144,Pennsylvania,Centre,4.2,Apr 2,28,0,0,0
+1145,Pennsylvania,Centre,2.9,Apr 3,32,0,0,0
+1146,Pennsylvania,Centre,2.4,Apr 4,39,0,0,0
+1147,Pennsylvania,Centre,8.1,Apr 5,43,0,0,0
+1148,Pennsylvania,Centre,5.6,Apr 6,44,0,0,0
+1149,Pennsylvania,Centre,5.5,Apr 7,55,0,0,0
+1150,Pennsylvania,Centre,4.4,Apr 8,57,0,0,0
+1151,Pennsylvania,Centre,2.0,Apr 9,59,0,0,0
+1152,Pennsylvania,Chester,4.8,Mar 23,40,0,0,0
+1153,Pennsylvania,Chester,7.3,Mar 24,40,0,0,0
+1154,Pennsylvania,Chester,6.0,Mar 25,54,0,0,0
+1155,Pennsylvania,Chester,11.6,Mar 26,84,0,0,0
+1156,Pennsylvania,Chester,9.3,Mar 27,107,0,0,0
+1157,Pennsylvania,Chester,7.1,Mar 28,116,0,0,0
+1158,Pennsylvania,Chester,9.4,Mar 29,137,0,0,0
+1159,Pennsylvania,Chester,7.3,Mar 30,146,0,0,0
+1160,Pennsylvania,Chester,,Mar 31,159,1,0,0
+1161,Pennsylvania,Chester,,Apr 1,183,1,0,0
+1162,Pennsylvania,Chester,4.3,Apr 2,210,2,0,0
+1163,Pennsylvania,Chester,2.9,Apr 3,226,2,0,0
+1164,Pennsylvania,Chester,7.4,Apr 4,250,2,0,0
+1165,Pennsylvania,Chester,9.4,Apr 5,269,2,0,0
+1166,Pennsylvania,Chester,6.1,Apr 6,307,3,0,0
+1167,Pennsylvania,Chester,11.2,Apr 7,335,6,0,0
+1168,Pennsylvania,Chester,6.9,Apr 8,373,6,0,0
+1169,Pennsylvania,Chester,9.0,Apr 9,425,7,0,0
+1170,Pennsylvania,Cumberland,4.6,Mar 23,12,0,0,0
+1171,Pennsylvania,Cumberland,4.9,Mar 24,13,0,0,0
+1172,Pennsylvania,Cumberland,8.3,Mar 25,13,0,0,0
+1173,Pennsylvania,Cumberland,8.5,Mar 26,15,0,0,0
+1174,Pennsylvania,Cumberland,10.0,Mar 27,16,0,0,0
+1175,Pennsylvania,Cumberland,9.4,Mar 28,22,1,0,0
+1176,Pennsylvania,Cumberland,,Mar 29,22,1,0,0
+1177,Pennsylvania,Cumberland,,Mar 30,24,1,0,0
+1178,Pennsylvania,Cumberland,6.2,Mar 31,36,1,0,0
+1179,Pennsylvania,Cumberland,6.5,Apr 1,38,1,0,0
+1180,Pennsylvania,Cumberland,3.6,Apr 2,41,1,0,0
+1181,Pennsylvania,Cumberland,3.3,Apr 3,45,2,0,0
+1182,Pennsylvania,Cumberland,4.9,Apr 4,54,2,0,0
+1183,Pennsylvania,Cumberland,13.5,Apr 5,58,2,0,0
+1184,Pennsylvania,Cumberland,6.1,Apr 6,68,2,0,0
+1185,Pennsylvania,Cumberland,10.6,Apr 7,77,2,0,0
+1186,Pennsylvania,Cumberland,5.3,Apr 8,84,2,0,0
+1187,Pennsylvania,Cumberland,6.4,Apr 9,88,2,0,0
+1188,Pennsylvania,Delaware,5.45,Mar 23,54,0,0,0
+1189,Pennsylvania,Delaware,5.4,Mar 24,84,0,0,0
+1190,Pennsylvania,Delaware,8.85,Mar 25,101,2,0,0
+1191,Pennsylvania,Delaware,11.55,Mar 26,156,2,0,0
+1192,Pennsylvania,Delaware,11.05,Mar 27,185,3,0,0
+1193,Pennsylvania,Delaware,11.4,Mar 28,226,4,0,0
+1194,Pennsylvania,Delaware,12.6,Mar 29,276,4,0,0
+1195,Pennsylvania,Delaware,11.25,Mar 30,303,4,0,0
+1196,Pennsylvania,Delaware,5.4,Mar 31,338,5,0,0
+1197,Pennsylvania,Delaware,7.35,Apr 1,390,7,0,0
+1198,Pennsylvania,Delaware,4.55,Apr 2,470,8,0,0
+1199,Pennsylvania,Delaware,2.9,Apr 3,542,10,0,0
+1200,Pennsylvania,Delaware,4.5,Apr 4,616,13,0,0
+1201,Pennsylvania,Delaware,10.35,Apr 5,708,14,0,0
+1202,Pennsylvania,Delaware,6.65,Apr 6,822,15,0,0
+1203,Pennsylvania,Delaware,12.9,Apr 7,898,20,0,0
+1204,Pennsylvania,Delaware,10.3,Apr 8,1034,23,0,0
+1205,Pennsylvania,Delaware,9.35,Apr 9,1222,26,0,0
+1206,Pennsylvania,Erie,6.3,Mar 23,3,0,0,0
+1207,Pennsylvania,Erie,10.1,Mar 24,5,0,0,0
+1208,Pennsylvania,Erie,8.2,Mar 25,5,0,0,0
+1209,Pennsylvania,Erie,9.3,Mar 26,5,0,0,0
+1210,Pennsylvania,Erie,7.7,Mar 27,7,0,0,0
+1211,Pennsylvania,Erie,6.1,Mar 28,7,0,0,0
+1212,Pennsylvania,Erie,4.1,Mar 29,7,0,0,0
+1213,Pennsylvania,Erie,2.4,Mar 30,13,0,0,0
+1214,Pennsylvania,Erie,4.8,Mar 31,14,0,0,0
+1215,Pennsylvania,Erie,5.3,Apr 1,15,0,0,0
+1216,Pennsylvania,Erie,4.9,Apr 2,17,0,0,0
+1217,Pennsylvania,Erie,4.9,Apr 3,17,0,0,0
+1218,Pennsylvania,Erie,8.4,Apr 4,19,0,0,0
+1219,Pennsylvania,Erie,6.2,Apr 5,19,0,0,0
+1220,Pennsylvania,Erie,7.3,Apr 6,27,0,0,0
+1221,Pennsylvania,Erie,7.2,Apr 7,29,0,0,0
+1222,Pennsylvania,Erie,10.0,Apr 8,29,0,0,0
+1223,Pennsylvania,Erie,5.8,Apr 9,32,0,0,0
+1224,Pennsylvania,Fayette,5.5,Mar 23,1,0,0,0
+1225,Pennsylvania,Fayette,8.5,Mar 24,2,0,0,0
+1226,Pennsylvania,Fayette,3.5,Mar 25,4,0,0,0
+1227,Pennsylvania,Fayette,5.6,Mar 26,8,0,0,0
+1228,Pennsylvania,Fayette,8.9,Mar 27,9,0,0,0
+1229,Pennsylvania,Fayette,9.6,Mar 28,10,0,0,0
+1230,Pennsylvania,Fayette,5.3,Mar 29,10,0,0,0
+1231,Pennsylvania,Fayette,3.1,Mar 30,11,0,0,0
+1232,Pennsylvania,Fayette,5.1,Mar 31,14,0,0,0
+1233,Pennsylvania,Fayette,5.0,Apr 1,14,1,0,0
+1234,Pennsylvania,Fayette,5.4,Apr 2,15,1,0,0
+1235,Pennsylvania,Fayette,4.2,Apr 3,20,1,0,0
+1236,Pennsylvania,Fayette,9.3,Apr 4,23,1,0,0
+1237,Pennsylvania,Fayette,13.5,Apr 5,27,1,0,0
+1238,Pennsylvania,Fayette,6.8,Apr 6,29,1,0,0
+1239,Pennsylvania,Fayette,9.5,Apr 7,32,1,0,0
+1240,Pennsylvania,Fayette,6.3,Apr 8,35,1,0,0
+1241,Pennsylvania,Fayette,5.6,Apr 9,45,1,0,0
+1242,Pennsylvania,Greene,,Mar 23,0,0,0,0
+1243,Pennsylvania,Greene,,Mar 24,0,0,0,0
+1244,Pennsylvania,Greene,,Mar 25,2,0,0,0
+1245,Pennsylvania,Greene,,Mar 26,3,0,0,0
+1246,Pennsylvania,Greene,,Mar 27,4,0,0,0
+1247,Pennsylvania,Greene,,Mar 28,6,0,0,0
+1248,Pennsylvania,Greene,,Mar 29,6,0,0,0
+1249,Pennsylvania,Greene,3.2,Mar 30,7,0,0,0
+1250,Pennsylvania,Greene,4.9,Mar 31,9,0,0,0
+1251,Pennsylvania,Greene,5.2,Apr 1,9,0,0,0
+1252,Pennsylvania,Greene,4.7,Apr 2,11,0,0,0
+1253,Pennsylvania,Greene,4.1,Apr 3,11,0,0,0
+1254,Pennsylvania,Greene,5.4,Apr 4,12,0,0,0
+1255,Pennsylvania,Greene,9.8,Apr 5,12,0,0,0
+1256,Pennsylvania,Greene,5.7,Apr 6,12,0,0,0
+1257,Pennsylvania,Greene,6.6,Apr 7,15,0,0,0
+1258,Pennsylvania,Greene,6.0,Apr 8,17,0,0,0
+1259,Pennsylvania,Greene,5.3,Apr 9,21,0,0,0
+1260,Pennsylvania,Lackawanna,5.2,Mar 23,7,0,0,0
+1261,Pennsylvania,Lackawanna,3.5,Mar 24,15,1,0,0
+1262,Pennsylvania,Lackawanna,5.8,Mar 25,18,2,0,0
+1263,Pennsylvania,Lackawanna,10.4,Mar 26,28,2,0,0
+1264,Pennsylvania,Lackawanna,7.2,Mar 27,35,2,0,0
+1265,Pennsylvania,Lackawanna,4.4,Mar 28,51,2,0,0
+1266,Pennsylvania,Lackawanna,1.9,Mar 29,56,2,0,0
+1267,Pennsylvania,Lackawanna,3.5,Mar 30,62,2,0,0
+1268,Pennsylvania,Lackawanna,2.5,Mar 31,78,3,0,0
+1269,Pennsylvania,Lackawanna,3.9,Apr 1,85,3,0,0
+1270,Pennsylvania,Lackawanna,3.5,Apr 2,108,3,0,0
+1271,Pennsylvania,Lackawanna,2.0,Apr 3,119,4,0,0
+1272,Pennsylvania,Lackawanna,4.3,Apr 4,146,6,0,0
+1273,Pennsylvania,Lackawanna,7.8,Apr 5,172,6,0,0
+1274,Pennsylvania,Lackawanna,4.9,Apr 6,190,7,0,0
+1275,Pennsylvania,Lackawanna,5.8,Apr 7,235,8,0,0
+1276,Pennsylvania,Lackawanna,5.3,Apr 8,266,12,0,0
+1277,Pennsylvania,Lackawanna,5.9,Apr 9,312,16,0,0
+1278,Pennsylvania,Lancaster,5.8,Mar 23,5,0,0,0
+1279,Pennsylvania,Lancaster,8.55,Mar 24,10,0,0,0
+1280,Pennsylvania,Lancaster,9.2,Mar 25,12,0,0,0
+1281,Pennsylvania,Lancaster,14.45,Mar 26,21,0,0,0
+1282,Pennsylvania,Lancaster,12.55,Mar 27,33,0,0,0
+1283,Pennsylvania,Lancaster,8.3,Mar 28,45,1,0,0
+1284,Pennsylvania,Lancaster,10.2,Mar 29,67,2,0,0
+1285,Pennsylvania,Lancaster,7.15,Mar 30,97,2,0,0
+1286,Pennsylvania,Lancaster,5.8,Mar 31,123,3,0,0
+1287,Pennsylvania,Lancaster,7.9,Apr 1,157,3,0,0
+1288,Pennsylvania,Lancaster,4.45,Apr 2,203,4,0,0
+1289,Pennsylvania,Lancaster,2.9,Apr 3,232,5,0,0
+1290,Pennsylvania,Lancaster,8.2,Apr 4,291,5,0,0
+1291,Pennsylvania,Lancaster,9.95,Apr 5,371,8,0,0
+1292,Pennsylvania,Lancaster,6.95,Apr 6,408,11,0,0
+1293,Pennsylvania,Lancaster,11.15,Apr 7,490,14,0,0
+1294,Pennsylvania,Lancaster,6.4,Apr 8,561,14,0,0
+1295,Pennsylvania,Lancaster,8.8,Apr 9,596,17,0,0
+1296,Pennsylvania,Lehigh,3.5,Mar 23,25,1,0,0
+1297,Pennsylvania,Lehigh,3.6,Mar 24,27,1,0,0
+1298,Pennsylvania,Lehigh,6.4,Mar 25,38,1,0,0
+1299,Pennsylvania,Lehigh,13.6,Mar 26,63,1,0,0
+1300,Pennsylvania,Lehigh,7.2,Mar 27,93,2,0,0
+1301,Pennsylvania,Lehigh,6.6,Mar 28,109,3,0,0
+1302,Pennsylvania,Lehigh,5.3,Mar 29,151,3,0,0
+1303,Pennsylvania,Lehigh,5.6,Mar 30,231,3,0,0
+1304,Pennsylvania,Lehigh,4.1,Mar 31,272,4,0,0
+1305,Pennsylvania,Lehigh,6.1,Apr 1,374,5,0,0
+1306,Pennsylvania,Lehigh,3.3,Apr 2,479,5,0,0
+1307,Pennsylvania,Lehigh,1.9,Apr 3,584,5,0,0
+1308,Pennsylvania,Lehigh,2.7,Apr 4,804,7,0,0
+1309,Pennsylvania,Lehigh,10.5,Apr 5,877,8,0,0
+1310,Pennsylvania,Lehigh,3.5,Apr 6,1006,8,0,0
+1311,Pennsylvania,Lehigh,7.1,Apr 7,1146,10,0,0
+1312,Pennsylvania,Lehigh,5.0,Apr 8,1319,12,0,0
+1313,Pennsylvania,Lehigh,2.7,Apr 9,1466,13,0,0
+1314,Pennsylvania,Lycoming,,Mar 23,0,0,0,0
+1315,Pennsylvania,Lycoming,,Mar 24,0,0,0,0
+1316,Pennsylvania,Lycoming,,Mar 25,1,0,0,0
+1317,Pennsylvania,Lycoming,,Mar 26,1,0,0,0
+1318,Pennsylvania,Lycoming,,Mar 27,2,0,0,0
+1319,Pennsylvania,Lycoming,,Mar 28,2,0,0,0
+1320,Pennsylvania,Lycoming,,Mar 29,3,0,0,0
+1321,Pennsylvania,Lycoming,,Mar 30,4,0,0,0
+1322,Pennsylvania,Lycoming,,Mar 31,6,0,0,0
+1323,Pennsylvania,Lycoming,,Apr 1,7,0,0,0
+1324,Pennsylvania,Lycoming,4.6,Apr 2,7,0,0,0
+1325,Pennsylvania,Lycoming,2.3,Apr 3,8,0,0,0
+1326,Pennsylvania,Lycoming,3.2,Apr 4,10,0,0,0
+1327,Pennsylvania,Lycoming,6.7,Apr 5,9,0,0,0
+1328,Pennsylvania,Lycoming,4.7,Apr 6,10,0,0,0
+1329,Pennsylvania,Lycoming,5.7,Apr 7,12,0,0,0
+1330,Pennsylvania,Lycoming,5.1,Apr 8,15,0,0,0
+1331,Pennsylvania,Lycoming,4.0,Apr 9,17,0,0,0
+1332,Pennsylvania,Mercer,7.5,Mar 23,1,0,0,0
+1333,Pennsylvania,Mercer,7.3,Mar 24,2,0,0,0
+1334,Pennsylvania,Mercer,6.0,Mar 25,2,0,0,0
+1335,Pennsylvania,Mercer,7.8,Mar 26,3,0,0,0
+1336,Pennsylvania,Mercer,12.3,Mar 27,4,0,0,0
+1337,Pennsylvania,Mercer,9.6,Mar 28,6,0,0,0
+1338,Pennsylvania,Mercer,4.5,Mar 29,7,0,0,0
+1339,Pennsylvania,Mercer,2.7,Mar 30,7,0,0,0
+1340,Pennsylvania,Mercer,4.2,Mar 31,8,0,0,0
+1341,Pennsylvania,Mercer,4.9,Apr 1,8,0,0,0
+1342,Pennsylvania,Mercer,4.4,Apr 2,9,0,0,0
+1343,Pennsylvania,Mercer,3.7,Apr 3,10,0,0,0
+1344,Pennsylvania,Mercer,9.3,Apr 4,14,0,0,0
+1345,Pennsylvania,Mercer,8.4,Apr 5,18,0,0,0
+1346,Pennsylvania,Mercer,6.9,Apr 6,18,0,0,0
+1347,Pennsylvania,Mercer,8.3,Apr 7,26,0,0,0
+1348,Pennsylvania,Mercer,5.8,Apr 8,27,0,0,0
+1349,Pennsylvania,Mercer,4.7,Apr 9,30,0,0,0
+1350,Pennsylvania,Montgomery,3.2,Mar 23,136,1,0,0
+1351,Pennsylvania,Montgomery,2.8,Mar 24,159,1,0,0
+1352,Pennsylvania,Montgomery,4.0,Mar 25,219,2,0,0
+1353,Pennsylvania,Montgomery,6.2,Mar 26,313,3,0,0
+1354,Pennsylvania,Montgomery,5.6,Mar 27,374,3,0,0
+1355,Pennsylvania,Montgomery,6.3,Mar 28,411,5,0,0
+1356,Pennsylvania,Montgomery,3.7,Mar 29,488,5,0,0
+1357,Pennsylvania,Montgomery,6.2,Mar 30,540,5,0,0
+1358,Pennsylvania,Montgomery,2.8,Mar 31,570,6,0,0
+1359,Pennsylvania,Montgomery,3.9,Apr 1,649,8,0,0
+1360,Pennsylvania,Montgomery,3.1,Apr 2,735,9,0,0
+1361,Pennsylvania,Montgomery,2.4,Apr 3,875,11,0,0
+1362,Pennsylvania,Montgomery,3.0,Apr 4,982,17,0,0
+1363,Pennsylvania,Montgomery,7.0,Apr 5,1111,18,0,0
+1364,Pennsylvania,Montgomery,5.4,Apr 6,1230,18,0,0
+1365,Pennsylvania,Montgomery,8.0,Apr 7,1359,30,0,0
+1366,Pennsylvania,Montgomery,5.6,Apr 8,1521,37,0,0
+1367,Pennsylvania,Montgomery,5.5,Apr 9,1693,37,0,0
+1368,Pennsylvania,Northampton,1.9,Mar 23,23,2,0,0
+1369,Pennsylvania,Northampton,2.4,Mar 24,33,2,0,0
+1370,Pennsylvania,Northampton,3.9,Mar 25,44,3,0,0
+1371,Pennsylvania,Northampton,9.4,Mar 26,56,3,0,0
+1372,Pennsylvania,Northampton,6.3,Mar 27,79,3,0,0
+1373,Pennsylvania,Northampton,5.9,Mar 28,94,4,0,0
+1374,Pennsylvania,Northampton,3.3,Mar 29,126,4,0,0
+1375,Pennsylvania,Northampton,4.1,Mar 30,184,5,0,0
+1376,Pennsylvania,Northampton,2.5,Mar 31,245,5,0,0
+1377,Pennsylvania,Northampton,5.1,Apr 1,312,5,0,0
+1378,Pennsylvania,Northampton,3.2,Apr 2,378,9,0,0
+1379,Pennsylvania,Northampton,2.7,Apr 3,466,10,0,0
+1380,Pennsylvania,Northampton,3.9,Apr 4,588,11,0,0
+1381,Pennsylvania,Northampton,10.1,Apr 5,636,11,0,0
+1382,Pennsylvania,Northampton,5.5,Apr 6,716,12,0,0
+1383,Pennsylvania,Northampton,8.9,Apr 7,774,14,0,0
+1384,Pennsylvania,Northampton,6.1,Apr 8,857,17,0,0
+1385,Pennsylvania,Northampton,5.8,Apr 9,949,20,0,0
+1386,Pennsylvania,Philadelphia,3.28,Mar 23,175,0,0,0
+1387,Pennsylvania,Philadelphia,3.2,Mar 24,252,0,0,0
+1388,Pennsylvania,Philadelphia,4.5,Mar 25,342,1,0,0
+1389,Pennsylvania,Philadelphia,7.6,Mar 26,475,1,0,0
+1390,Pennsylvania,Philadelphia,6.9,Mar 27,637,2,0,0
+1391,Pennsylvania,Philadelphia,7.13,Mar 28,803,5,0,0
+1392,Pennsylvania,Philadelphia,4.47,Mar 29,890,8,0,0
+1393,Pennsylvania,Philadelphia,7.03,Mar 30,1072,8,0,0
+1394,Pennsylvania,Philadelphia,3.85,Mar 31,1315,10,0,0
+1395,Pennsylvania,Philadelphia,4.0,Apr 1,1675,10,0,0
+1396,Pennsylvania,Philadelphia,3.0,Apr 2,2100,13,0,0
+1397,Pennsylvania,Philadelphia,2.4,Apr 3,2430,14,0,0
+1398,Pennsylvania,Philadelphia,3.3,Apr 4,3008,24,0,0
+1399,Pennsylvania,Philadelphia,8.3,Apr 5,3189,28,0,0
+1400,Pennsylvania,Philadelphia,5.5,Apr 6,3728,45,0,0
+1401,Pennsylvania,Philadelphia,8.93,Apr 7,4272,65,0,0
+1402,Pennsylvania,Philadelphia,7.67,Apr 8,4777,87,0,0
+1403,Pennsylvania,Philadelphia,6.63,Apr 9,5029,87,0,0
+1404,Pennsylvania,Susquehanna,3.3,Mar 23,0,0,0,0
+1405,Pennsylvania,Susquehanna,3.1,Mar 24,0,0,0,0
+1406,Pennsylvania,Susquehanna,5.3,Mar 25,0,0,0,0
+1407,Pennsylvania,Susquehanna,7.5,Mar 26,1,0,0,0
+1408,Pennsylvania,Susquehanna,4.6,Mar 27,1,0,0,0
+1409,Pennsylvania,Susquehanna,3.8,Mar 28,1,0,0,0
+1410,Pennsylvania,Susquehanna,1.9,Mar 29,1,0,0,0
+1411,Pennsylvania,Susquehanna,2.8,Mar 30,1,0,0,0
+1412,Pennsylvania,Susquehanna,2.2,Mar 31,1,0,0,0
+1413,Pennsylvania,Susquehanna,3.4,Apr 1,2,0,0,0
+1414,Pennsylvania,Susquehanna,3.2,Apr 2,3,0,0,0
+1415,Pennsylvania,Susquehanna,1.7,Apr 3,4,0,0,0
+1416,Pennsylvania,Susquehanna,3.2,Apr 4,5,0,0,0
+1417,Pennsylvania,Susquehanna,5.9,Apr 5,6,0,0,0
+1418,Pennsylvania,Susquehanna,4.1,Apr 6,6,0,0,0
+1419,Pennsylvania,Susquehanna,4.7,Apr 7,11,0,0,0
+1420,Pennsylvania,Susquehanna,5.7,Apr 8,14,0,0,0
+1421,Pennsylvania,Susquehanna,5.9,Apr 9,16,1,0,0
+1422,Pennsylvania,Tioga,3.1,Mar 23,0,0,0,0
+1423,Pennsylvania,Tioga,3.4,Mar 24,0,0,0,0
+1424,Pennsylvania,Tioga,5.2,Mar 25,0,0,0,0
+1425,Pennsylvania,Tioga,8.3,Mar 26,0,0,0,0
+1426,Pennsylvania,Tioga,5.7,Mar 27,0,0,0,0
+1427,Pennsylvania,Tioga,2.5,Mar 28,1,0,0,0
+1428,Pennsylvania,Tioga,2.2,Mar 29,1,0,0,0
+1429,Pennsylvania,Tioga,2.9,Mar 30,1,0,0,0
+1430,Pennsylvania,Tioga,2.2,Mar 31,2,0,0,0
+1431,Pennsylvania,Tioga,4.3,Apr 1,2,0,0,0
+1432,Pennsylvania,Tioga,4.2,Apr 2,2,0,0,0
+1433,Pennsylvania,Tioga,2.3,Apr 3,3,0,0,0
+1434,Pennsylvania,Tioga,2.2,Apr 4,3,0,0,0
+1435,Pennsylvania,Tioga,5.9,Apr 5,3,0,0,0
+1436,Pennsylvania,Tioga,4.2,Apr 6,8,0,0,0
+1437,Pennsylvania,Tioga,4.6,Apr 7,10,0,0,0
+1438,Pennsylvania,Tioga,4.2,Apr 8,10,0,0,0
+1439,Pennsylvania,Tioga,4.2,Apr 9,10,0,0,0
+1440,Pennsylvania,Washington,6.23,Mar 23,7,0,0,0
+1441,Pennsylvania,Washington,9.13,Mar 24,9,0,0,0
+1442,Pennsylvania,Washington,4.93,Mar 25,10,0,0,0
+1443,Pennsylvania,Washington,6.1,Mar 26,12,0,0,0
+1444,Pennsylvania,Washington,9.97,Mar 27,14,0,0,0
+1445,Pennsylvania,Washington,10.47,Mar 28,23,0,0,0
+1446,Pennsylvania,Washington,4.83,Mar 29,24,0,0,0
+1447,Pennsylvania,Washington,3.27,Mar 30,26,0,0,0
+1448,Pennsylvania,Washington,5.2,Mar 31,33,0,0,0
+1449,Pennsylvania,Washington,4.7,Apr 1,35,0,0,0
+1450,Pennsylvania,Washington,4.8,Apr 2,38,0,0,0
+1451,Pennsylvania,Washington,4.33,Apr 3,40,0,0,0
+1452,Pennsylvania,Washington,7.2,Apr 4,46,0,0,0
+1453,Pennsylvania,Washington,12.37,Apr 5,50,0,0,0
+1454,Pennsylvania,Washington,6.7,Apr 6,53,0,0,0
+1455,Pennsylvania,Washington,8.47,Apr 7,57,0,0,0
+1456,Pennsylvania,Washington,5.67,Apr 8,59,0,0,0
+1457,Pennsylvania,Washington,4.73,Apr 9,63,0,0,0
+1458,Pennsylvania,Westmoreland,4.6,Mar 23,6,0,0,0
+1459,Pennsylvania,Westmoreland,5.6,Mar 24,11,0,0,0
+1460,Pennsylvania,Westmoreland,3.6,Mar 25,16,0,0,0
+1461,Pennsylvania,Westmoreland,4.8,Mar 26,24,0,0,0
+1462,Pennsylvania,Westmoreland,5.7,Mar 27,30,0,0,0
+1463,Pennsylvania,Westmoreland,7.7,Mar 28,41,0,0,0
+1464,Pennsylvania,Westmoreland,5.5,Mar 29,47,0,0,0
+1465,Pennsylvania,Westmoreland,2.4,Mar 30,55,0,0,0
+1466,Pennsylvania,Westmoreland,3.7,Mar 31,61,0,0,0
+1467,Pennsylvania,Westmoreland,3.3,Apr 1,72,0,0,0
+1468,Pennsylvania,Westmoreland,4.8,Apr 2,84,0,0,0
+1469,Pennsylvania,Westmoreland,3.6,Apr 3,110,0,0,0
+1470,Pennsylvania,Westmoreland,9.1,Apr 4,135,0,0,0
+1471,Pennsylvania,Westmoreland,13.0,Apr 5,147,0,0,0
+1472,Pennsylvania,Westmoreland,6.2,Apr 6,157,0,0,0
+1473,Pennsylvania,Westmoreland,8.1,Apr 7,177,0,0,0
+1474,Pennsylvania,Westmoreland,4.4,Apr 8,183,0,0,0
+1475,Pennsylvania,Westmoreland,4.2,Apr 9,190,0,0,0
+1476,Pennsylvania,Wyoming,,Mar 23,0,0,0,0
+1477,Pennsylvania,Wyoming,,Mar 24,0,0,0,0
+1478,Pennsylvania,Wyoming,,Mar 25,0,0,0,0
+1479,Pennsylvania,Wyoming,,Mar 26,0,0,0,0
+1480,Pennsylvania,Wyoming,,Mar 27,0,0,0,0
+1481,Pennsylvania,Wyoming,,Mar 28,0,0,0,0
+1482,Pennsylvania,Wyoming,,Mar 29,0,0,0,0
+1483,Pennsylvania,Wyoming,,Mar 30,0,0,0,0
+1484,Pennsylvania,Wyoming,,Mar 31,0,0,0,0
+1485,Pennsylvania,Wyoming,,Apr 1,0,0,0,0
+1486,Pennsylvania,Wyoming,3.6,Apr 2,1,0,0,0
+1487,Pennsylvania,Wyoming,1.7,Apr 3,2,0,0,0
+1488,Pennsylvania,Wyoming,3.6,Apr 4,5,0,0,0
+1489,Pennsylvania,Wyoming,7.5,Apr 5,5,0,0,0
+1490,Pennsylvania,Wyoming,4.3,Apr 6,5,0,0,0
+1491,Pennsylvania,Wyoming,5.5,Apr 7,5,0,0,0
+1492,Pennsylvania,Wyoming,5.4,Apr 8,5,0,0,0
+1493,Pennsylvania,Wyoming,6.8,Apr 9,6,0,0,0
+1494,Pennsylvania,York,6.2,Mar 23,10,0,0,0
+1495,Pennsylvania,York,7.8,Mar 24,18,0,0,0
+1496,Pennsylvania,York,11.9,Mar 25,20,0,0,0
+1497,Pennsylvania,York,14.9,Mar 26,21,0,0,0
+1498,Pennsylvania,York,12.4,Mar 27,30,0,0,0
+1499,Pennsylvania,York,9.5,Mar 28,37,0,0,0
+1500,Pennsylvania,York,13.1,Mar 29,43,0,0,0
+1501,Pennsylvania,York,7.4,Mar 30,54,0,0,0
+1502,Pennsylvania,York,5.7,Mar 31,66,0,0,0
+1503,Pennsylvania,York,7.1,Apr 1,79,0,0,0
+1504,Pennsylvania,York,4.5,Apr 2,102,1,0,0
+1505,Pennsylvania,York,2.7,Apr 3,121,1,0,0
+1506,Pennsylvania,York,5.7,Apr 4,144,1,0,0
+1507,Pennsylvania,York,11.2,Apr 5,171,1,0,0
+1508,Pennsylvania,York,7.0,Apr 6,189,1,0,0
+1509,Pennsylvania,York,11.3,Apr 7,218,2,0,0
+1510,Pennsylvania,York,6.1,Apr 8,233,2,0,0
+1511,Pennsylvania,York,8.8,Apr 9,250,3,0,0
+1512,Rhode Island,Kent,3.0,Mar 23,7,0,0,0
+1513,Rhode Island,Kent,2.5,Mar 24,7,0,0,0
+1514,Rhode Island,Kent,6.0,Mar 25,7,0,0,0
+1515,Rhode Island,Kent,6.4,Mar 26,9,0,0,0
+1516,Rhode Island,Kent,4.8,Mar 27,9,0,0,0
+1517,Rhode Island,Kent,3.8,Mar 28,9,0,0,0
+1518,Rhode Island,Kent,3.4,Mar 29,27,0,0,0
+1519,Rhode Island,Kent,2.7,Mar 30,27,0,0,0
+1520,Rhode Island,Kent,5.5,Mar 31,31,0,0,0
+1521,Rhode Island,Kent,3.8,Apr 1,39,0,0,0
+1522,Rhode Island,Kent,2.1,Apr 2,59,0,0,0
+1523,Rhode Island,Kent,1.8,Apr 3,59,0,0,0
+1524,Rhode Island,Kent,4.7,Apr 4,59,0,0,0
+1525,Rhode Island,Kent,6.9,Apr 5,82,0,0,0
+1526,Rhode Island,Kent,3.0,Apr 6,92,0,0,0
+1527,Rhode Island,Kent,,Apr 7,105,0,0,0
+1528,Rhode Island,Kent,,Apr 8,137,0,0,0
+1529,Rhode Island,Kent,,Apr 9,137,0,0,0
+1530,Rhode Island,Providence,5.2,Mar 23,52,0,0,0
+1531,Rhode Island,Providence,3.15,Mar 24,52,0,0,0
+1532,Rhode Island,Providence,5.6,Mar 25,52,0,0,0
+1533,Rhode Island,Providence,3.5,Mar 26,91,0,0,0
+1534,Rhode Island,Providence,2.6,Mar 27,91,0,0,0
+1535,Rhode Island,Providence,7.2,Mar 28,91,0,0,0
+1536,Rhode Island,Providence,2.8,Mar 29,156,0,0,0
+1537,Rhode Island,Providence,1.9,Mar 30,156,0,0,0
+1538,Rhode Island,Providence,4.4,Mar 31,208,0,0,0
+1539,Rhode Island,Providence,3.0,Apr 1,301,0,0,0
+1540,Rhode Island,Providence,0.6,Apr 2,418,0,0,0
+1541,Rhode Island,Providence,0.6,Apr 3,418,3,0,0
+1542,Rhode Island,Providence,3.8,Apr 4,418,3,0,0
+1543,Rhode Island,Providence,4.8,Apr 5,491,3,0,0
+1544,Rhode Island,Providence,3.2,Apr 6,538,3,0,0
+1545,Rhode Island,Providence,2.5,Apr 7,622,3,0,0
+1546,Rhode Island,Providence,4.0,Apr 8,832,3,0,0
+1547,Rhode Island,Providence,,Apr 9,832,3,0,0
+1548,Rhode Island,Washington,2.1,Mar 23,9,0,0,0
+1549,Rhode Island,Washington,1.3,Mar 24,9,0,0,0
+1550,Rhode Island,Washington,2.9,Mar 25,9,0,0,0
+1551,Rhode Island,Washington,3.6,Mar 26,14,0,0,0
+1552,Rhode Island,Washington,4.1,Mar 27,14,0,0,0
+1553,Rhode Island,Washington,2.4,Mar 28,14,0,0,0
+1554,Rhode Island,Washington,0.0,Mar 29,23,0,0,0
+1555,Rhode Island,Washington,0.2,Mar 30,23,0,0,0
+1556,Rhode Island,Washington,1.8,Mar 31,28,0,0,0
+1557,Rhode Island,Washington,1.0,Apr 1,25,0,0,0
+1558,Rhode Island,Washington,-0.2,Apr 2,34,0,0,0
+1559,Rhode Island,Washington,-0.1,Apr 3,34,0,0,0
+1560,Rhode Island,Washington,2.2,Apr 4,34,0,0,0
+1561,Rhode Island,Washington,3.3,Apr 5,48,0,0,0
+1562,Rhode Island,Washington,2.6,Apr 6,53,0,0,0
+1563,Rhode Island,Washington,1.6,Apr 7,70,0,0,0
+1564,Rhode Island,Washington,3.9,Apr 8,120,0,0,0
+1565,Rhode Island,Washington,2.5,Apr 9,120,0,0,0
+1566,Vermont,Bennington,4.2,Mar 23,4,0,0,0
+1567,Vermont,Bennington,4.7,Mar 24,9,0,0,0
+1568,Vermont,Bennington,5.9,Mar 25,11,0,0,0
+1569,Vermont,Bennington,5.6,Mar 26,11,0,0,0
+1570,Vermont,Bennington,3.9,Mar 27,15,0,0,0
+1571,Vermont,Bennington,4.6,Mar 28,15,0,0,0
+1572,Vermont,Bennington,0.3,Mar 29,16,0,0,0
+1573,Vermont,Bennington,0.6,Mar 30,16,0,0,0
+1574,Vermont,Bennington,2.7,Mar 31,18,0,0,0
+1575,Vermont,Bennington,4.0,Apr 1,18,0,0,0
+1576,Vermont,Bennington,2.3,Apr 2,17,0,0,0
+1577,Vermont,Bennington,1.4,Apr 3,19,0,0,0
+1578,Vermont,Bennington,2.4,Apr 4,23,0,0,0
+1579,Vermont,Bennington,5.0,Apr 5,24,0,0,0
+1580,Vermont,Bennington,3.6,Apr 6,25,0,0,0
+1581,Vermont,Bennington,4.1,Apr 7,27,0,0,0
+1582,Vermont,Bennington,4.1,Apr 8,27,0,0,0
+1583,Vermont,Bennington,4.0,Apr 9,31,1,0,0
+1584,Vermont,Chittenden,5.3,Mar 23,32,1,0,0
+1585,Vermont,Chittenden,7.55,Mar 24,40,4,0,0
+1586,Vermont,Chittenden,9.4,Mar 25,55,4,0,0
+1587,Vermont,Chittenden,7.7,Mar 26,75,4,0,0
+1588,Vermont,Chittenden,3.05,Mar 27,90,4,0,0
+1589,Vermont,Chittenden,5.25,Mar 28,105,4,0,0
+1590,Vermont,Chittenden,3.3,Mar 29,117,4,0,0
+1591,Vermont,Chittenden,1.5,Mar 30,117,4,0,0
+1592,Vermont,Chittenden,3.4,Mar 31,152,4,0,0
+1593,Vermont,Chittenden,4.2,Apr 1,164,4,0,0
+1594,Vermont,Chittenden,3.1,Apr 2,177,4,0,0
+1595,Vermont,Chittenden,2.7,Apr 3,199,4,0,0
+1596,Vermont,Chittenden,4.4,Apr 4,245,4,0,0
+1597,Vermont,Chittenden,4.8,Apr 5,271,4,0,0
+1598,Vermont,Chittenden,3.35,Apr 6,285,4,0,0
+1599,Vermont,Chittenden,4.1,Apr 7,308,4,0,0
+1600,Vermont,Chittenden,,Apr 8,308,4,0,0
+1601,Vermont,Chittenden,5.5,Apr 9,336,15,0,0
+1602,Vermont,Rutland,5.4,Mar 23,4,0,0,0
+1603,Vermont,Rutland,6.1,Mar 24,5,0,0,0
+1604,Vermont,Rutland,9.7,Mar 25,5,0,0,0
+1605,Vermont,Rutland,8.7,Mar 26,5,0,0,0
+1606,Vermont,Rutland,4.8,Mar 27,5,0,0,0
+1607,Vermont,Rutland,8.0,Mar 28,6,0,0,0
+1608,Vermont,Rutland,1.3,Mar 29,6,0,0,0
+1609,Vermont,Rutland,1.2,Mar 30,6,0,0,0
+1610,Vermont,Rutland,3.6,Mar 31,6,0,0,0
+1611,Vermont,Rutland,6.5,Apr 1,10,0,0,0
+1612,Vermont,Rutland,3.5,Apr 2,12,0,0,0
+1613,Vermont,Rutland,3.1,Apr 3,17,0,0,0
+1614,Vermont,Rutland,4.2,Apr 4,24,0,0,0
+1615,Vermont,Rutland,5.3,Apr 5,27,0,0,0
+1616,Vermont,Rutland,3.3,Apr 6,28,0,0,0
+1617,Vermont,Rutland,6.0,Apr 7,31,0,0,0
+1618,Vermont,Rutland,6.3,Apr 8,31,0,0,0
+1619,Vermont,Rutland,5.6,Apr 9,34,0,0,0
