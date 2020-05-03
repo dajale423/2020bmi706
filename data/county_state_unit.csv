@@ -1,0 +1,2 @@
+County,State,Avr_PM2.5,Avr_CO,Avr_NO2,Avr_Ozone,Avr_SO2,Population,Area,Pop_density,Poverty_all,Poverty_child,Large_airport,Medium_airport,Small_airport,Non_Hub_airport,Cases,Deaths,Case_per_thousand,Death_per_M,Mortality
+,,ug/m3 LC,ppm,ppb,ppm,ppb,,km^2,/km^2,%,%,,,,,,,,,%
