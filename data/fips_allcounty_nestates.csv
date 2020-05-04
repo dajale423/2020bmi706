@@ -1,225 +1,244 @@
-﻿fips,County,State_Code
-9001,Fairfield,CT
-9003,Hartford,CT
-9005,Litchfield,CT
-9007,Middlesex,CT
-9009,New Haven,CT
-9011,New London,CT
-9013,Tolland,CT
-9015,Windham,CT
-24003,Anne Arundel,MD
-24005,Baltimore,MD
-24009,Calvert,MD
-24011,Caroline,MD
-24013,Carroll,MD
-24015,Cecil,MD
-24017,Charles,MD
-24019,Dorchester,MD
-24021,Frederick,MD
-24023,Garrett,MD
-24025,Harford,MD
-24027,Howard,MD
-24029,Kent,MD
-24031,Montgomery,MD
-24033,Prince Georges,MD
-24035,Queen Annes,MD
-24037,St Marys,MD
-24039,Somerset,MD
-24041,Talbot,MD
-24043,Washington,MD
-24045,Wicomico,MD
-24047,Worcester,MD
-24510,Baltimore City,MD
-25001,Barnstable,MA
-25003,Berkshire,MA
-25005,Bristol,MA
-25007,Dukes,MA
-25009,Essex,MA
-25011,Franklin,MA
-25013,Hampden,MA
-25015,Hampshire,MA
-25017,Middlesex,MA
-25019,Nantucket,MA
-25021,Norfolk,MA
-25023,Plymouth,MA
-25025,Suffolk,MA
-25027,Worcester,MA
-33001,Belknap,NH
-33003,Carroll,NH
-33005,Cheshire,NH
-33007,Coos,NH
-33009,Grafton,NH
-33011,Hillsborough,NH
-33013,Merrimack,NH
-33015,Rockingham,NH
-33017,Strafford,NH
-33019,Sullivan,NH
-34001,Atlantic,NJ
-34003,Bergen,NJ
-34005,Burlington,NJ
-34007,Camden,NJ
-34009,Cape May,NJ
-34011,Cumberland,NJ
-34013,Essex,NJ
-34015,Gloucester,NJ
-34017,Hudson,NJ
-34019,Hunterdon,NJ
-34021,Mercer,NJ
-34023,Middlesex,NJ
-34025,Monmouth,NJ
-34027,Morris,NJ
-34029,Ocean,NJ
-34031,Passaic,NJ
-34033,Salem,NJ
-34035,Somerset,NJ
-34037,Sussex,NJ
-34039,Union,NJ
-34041,Warren,NJ
-36001,Albany,NY
-36003,Allegany,NY
-36005,Bronx,NY
-36007,Broome,NY
-36009,Cattaraugus,NY
-36011,Cayuga,NY
-36013,Chautauqua,NY
-36015,Chemung,NY
-36017,Chenango,NY
-36019,Clinton,NY
-36021,Columbia,NY
-36023,Cortland,NY
-36025,Delaware,NY
-36027,Dutchess,NY
-36029,Erie,NY
-36031,Essex,NY
-36033,Franklin,NY
-36035,Fulton,NY
-36037,Genesee,NY
-36039,Greene,NY
-36041,Hamilton,NY
-36043,Herkimer,NY
-36045,Jefferson,NY
-36047,Kings,NY
-36049,Lewis,NY
-36051,Livingston,NY
-36053,Madison,NY
-36055,Monroe,NY
-36057,Montgomery,NY
-36059,Nassau,NY
-36061,New York,NY
-36063,Niagara,NY
-36065,Oneida,NY
-36067,Onondaga,NY
-36069,Ontario,NY
-36071,Orange,NY
-36073,Orleans,NY
-36075,Oswego,NY
-36077,Otsego,NY
-36079,Putnam,NY
-36081,Queens,NY
-36083,Rensselaer,NY
-36085,Richmond,NY
-36087,Rockland,NY
-36089,St Lawrence,NY
-36091,Saratoga,NY
-36093,Schenectady,NY
-36095,Schoharie,NY
-36097,Schuyler,NY
-36099,Seneca,NY
-36101,Steuben,NY
-36103,Suffolk,NY
-36105,Sullivan,NY
-36107,Tioga,NY
-36109,Tompkins,NY
-36111,Ulster,NY
-36113,Warren,NY
-36115,Washington,NY
-36117,Wayne,NY
-36119,Westchester,NY
-36121,Wyoming,NY
-36123,Yates,NY
-42001,Adams,PA
-42003,Allegheny,PA
-42005,Armstrong,PA
-42007,Beaver,PA
-42009,Bedford,PA
-42011,Berks,PA
-42013,Blair,PA
-42015,Bradford,PA
-42017,Bucks,PA
-42019,Butler,PA
-42021,Cambria,PA
-42023,Cameron,PA
-42025,Carbon,PA
-42027,Centre,PA
-42029,Chester,PA
-42031,Clarion,PA
-42033,Clearfield,PA
-42035,Clinton,PA
-42037,Columbia,PA
-42039,Crawford,PA
-42041,Cumberland,PA
-42043,Dauphin,PA
-42045,Delaware,PA
-42047,Elk,PA
-42049,Erie,PA
-42051,Fayette,PA
-42053,Forest,PA
-42055,Franklin,PA
-42057,Fulton,PA
-42059,Greene,PA
-42061,Huntingdon,PA
-42063,Indiana,PA
-42065,Jefferson,PA
-42067,Juniata,PA
-42069,Lackawanna,PA
-42071,Lancaster,PA
-42073,Lawrence,PA
-42075,Lebanon,PA
-42077,Lehigh,PA
-42079,Luzerne,PA
-42081,Lycoming,PA
-42083,McKean,PA
-42085,Mercer,PA
-42087,Mifflin,PA
-42089,Monroe,PA
-42091,Montgomery,PA
-42093,Montour,PA
-42095,Northampton,PA
-42097,Northumberland,PA
-42099,Perry,PA
-42101,Philadelphia,PA
-42103,Pike,PA
-42105,Potter,PA
-42107,Schuylkill,PA
-42109,Snyder,PA
-42111,Somerset,PA
-42113,Sullivan,PA
-42115,Susquehanna,PA
-42117,Tioga,PA
-42119,Union,PA
-42121,Venango,PA
-42123,Warren,PA
-42125,Washington,PA
-42127,Wayne,PA
-42129,Westmoreland,PA
-42131,Wyoming,PA
-42133,York,PA
-44001,Bristol,RI
-44003,Kent,RI
-44005,Newport,RI
-44007,Providence,RI
-44009,Washington,RI
-50001,Addison,VT
-50003,Bennington,VT
-50005,Caledonia,VT
-50007,Chittenden,VT
-50009,Essex,VT
-50011,Franklin,VT
-50013,Grand Isle,VT
-50015,Lamoille,VT
-50017,Orange,VT
-50019,Orleans,VT
-50021,Rutland,VT
-50023,Washington,VT
-50025,Windham,VT
-50027,Windsor,VT
+"fips,County,State_Code",State
+"9001,Fairfield,CT",Connecticut
+"9003,Hartford,CT",Connecticut
+"9005,Litchfield,CT",Connecticut
+"9007,Middlesex,CT",Connecticut
+"9009,New Haven,CT",Connecticut
+"9011,New London,CT",Connecticut
+"9013,Tolland,CT",Connecticut
+"9015,Windham,CT",Connecticut
+"24003,Anne Arundel,MD",Maryland
+"24005,Baltimore,MD",Maryland
+"24009,Calvert,MD",Maryland
+"24011,Caroline,MD",Maryland
+"24013,Carroll,MD",Maryland
+"24015,Cecil,MD",Maryland
+"24017,Charles,MD",Maryland
+"24019,Dorchester,MD",Maryland
+"24021,Frederick,MD",Maryland
+"24023,Garrett,MD",Maryland
+"24025,Harford,MD",Maryland
+"24027,Howard,MD",Maryland
+"24029,Kent,MD",Maryland
+"24031,Montgomery,MD",Maryland
+"24033,Prince George's,MD",Maryland
+"24035,Queen Annes,MD",Maryland
+"24037,St Marys,MD",Maryland
+"24039,Somerset,MD",Maryland
+"24041,Talbot,MD",Maryland
+"24043,Washington,MD",Maryland
+"24045,Wicomico,MD",Maryland
+"24047,Worcester,MD",Maryland
+"24510,Baltimore City,MD",Maryland
+"25001,Barnstable,MA",Massachusetts
+"25003,Berkshire,MA",Massachusetts
+"25005,Bristol,MA",Massachusetts
+"25007,Dukes,MA",Massachusetts
+"25009,Essex,MA",Massachusetts
+"25011,Franklin,MA",Massachusetts
+"25013,Hampden,MA",Massachusetts
+"25015,Hampshire,MA",Massachusetts
+"25017,Middlesex,MA",Massachusetts
+"25019,Nantucket,MA",Massachusetts
+"25021,Norfolk,MA",Massachusetts
+"25023,Plymouth,MA",Massachusetts
+"25025,Suffolk,MA",Massachusetts
+"25027,Worcester,MA",Massachusetts
+"33001,Belknap,NH",New Hampshire
+"33003,Carroll,NH",New Hampshire
+"33005,Cheshire,NH",New Hampshire
+"33007,Coos,NH",New Hampshire
+"33009,Grafton,NH",New Hampshire
+"33011,Hillsborough,NH",New Hampshire
+"33013,Merrimack,NH",New Hampshire
+"33015,Rockingham,NH",New Hampshire
+"33017,Strafford,NH",New Hampshire
+"33019,Sullivan,NH",New Hampshire
+"34001,Atlantic,NJ",New Jersey
+"34003,Bergen,NJ",New Jersey
+"34005,Burlington,NJ",New Jersey
+"34007,Camden,NJ",New Jersey
+"34009,Cape May,NJ",New Jersey
+"34011,Cumberland,NJ",New Jersey
+"34013,Essex,NJ",New Jersey
+"34015,Gloucester,NJ",New Jersey
+"34017,Hudson,NJ",New Jersey
+"34019,Hunterdon,NJ",New Jersey
+"34021,Mercer,NJ",New Jersey
+"34023,Middlesex,NJ",New Jersey
+"34025,Monmouth,NJ",New Jersey
+"34027,Morris,NJ",New Jersey
+"34029,Ocean,NJ",New Jersey
+"34031,Passaic,NJ",New Jersey
+"34033,Salem,NJ",New Jersey
+"34035,Somerset,NJ",New Jersey
+"34037,Sussex,NJ",New Jersey
+"34039,Union,NJ",New Jersey
+"34041,Warren,NJ",New Jersey
+"36001,Albany,NY",New York
+"36003,Allegany,NY",New York
+"36005,Bronx,NY",New York
+"36007,Broome,NY",New York
+"36009,Cattaraugus,NY",New York
+"36011,Cayuga,NY",New York
+"36013,Chautauqua,NY",New York
+"36015,Chemung,NY",New York
+"36017,Chenango,NY",New York
+"36019,Clinton,NY",New York
+"36021,Columbia,NY",New York
+"36023,Cortland,NY",New York
+"36025,Delaware,NY",New York
+"36027,Dutchess,NY",New York
+"36029,Erie,NY",New York
+"36031,Essex,NY",New York
+"36033,Franklin,NY",New York
+"36035,Fulton,NY",New York
+"36037,Genesee,NY",New York
+"36039,Greene,NY",New York
+"36041,Hamilton,NY",New York
+"36043,Herkimer,NY",New York
+"36045,Jefferson,NY",New York
+"36047,Kings,NY",New York
+"36049,Lewis,NY",New York
+"36051,Livingston,NY",New York
+"36053,Madison,NY",New York
+"36055,Monroe,NY",New York
+"36057,Montgomery,NY",New York
+"36059,Nassau,NY",New York
+"36061,New York,NY",New York
+"36063,Niagara,NY",New York
+"36065,Oneida,NY",New York
+"36067,Onondaga,NY",New York
+"36069,Ontario,NY",New York
+"36071,Orange,NY",New York
+"36073,Orleans,NY",New York
+"36075,Oswego,NY",New York
+"36077,Otsego,NY",New York
+"36079,Putnam,NY",New York
+"36081,Queens,NY",New York
+"36083,Rensselaer,NY",New York
+"36085,Richmond,NY",New York
+"36087,Rockland,NY",New York
+"36089,St Lawrence,NY",New York
+"36091,Saratoga,NY",New York
+"36093,Schenectady,NY",New York
+"36095,Schoharie,NY",New York
+"36097,Schuyler,NY",New York
+"36099,Seneca,NY",New York
+"36101,Steuben,NY",New York
+"36103,Suffolk,NY",New York
+"36105,Sullivan,NY",New York
+"36107,Tioga,NY",New York
+"36109,Tompkins,NY",New York
+"36111,Ulster,NY",New York
+"36113,Warren,NY",New York
+"36115,Washington,NY",New York
+"36117,Wayne,NY",New York
+"36119,Westchester,NY",New York
+"36121,Wyoming,NY",New York
+"36123,Yates,NY",New York
+"42001,Adams,PA",Pennsylvania
+"42003,Allegheny,PA",Pennsylvania
+"42005,Armstrong,PA",Pennsylvania
+"42007,Beaver,PA",Pennsylvania
+"42009,Bedford,PA",Pennsylvania
+"42011,Berks,PA",Pennsylvania
+"42013,Blair,PA",Pennsylvania
+"42015,Bradford,PA",Pennsylvania
+"42017,Bucks,PA",Pennsylvania
+"42019,Butler,PA",Pennsylvania
+"42021,Cambria,PA",Pennsylvania
+"42023,Cameron,PA",Pennsylvania
+"42025,Carbon,PA",Pennsylvania
+"42027,Centre,PA",Pennsylvania
+"42029,Chester,PA",Pennsylvania
+"42031,Clarion,PA",Pennsylvania
+"42033,Clearfield,PA",Pennsylvania
+"42035,Clinton,PA",Pennsylvania
+"42037,Columbia,PA",Pennsylvania
+"42039,Crawford,PA",Pennsylvania
+"42041,Cumberland,PA",Pennsylvania
+"42043,Dauphin,PA",Pennsylvania
+"42045,Delaware,PA",Pennsylvania
+"42047,Elk,PA",Pennsylvania
+"42049,Erie,PA",Pennsylvania
+"42051,Fayette,PA",Pennsylvania
+"42053,Forest,PA",Pennsylvania
+"42055,Franklin,PA",Pennsylvania
+"42057,Fulton,PA",Pennsylvania
+"42059,Greene,PA",Pennsylvania
+"42061,Huntingdon,PA",Pennsylvania
+"42063,Indiana,PA",Pennsylvania
+"42065,Jefferson,PA",Pennsylvania
+"42067,Juniata,PA",Pennsylvania
+"42069,Lackawanna,PA",Pennsylvania
+"42071,Lancaster,PA",Pennsylvania
+"42073,Lawrence,PA",Pennsylvania
+"42075,Lebanon,PA",Pennsylvania
+"42077,Lehigh,PA",Pennsylvania
+"42079,Luzerne,PA",Pennsylvania
+"42081,Lycoming,PA",Pennsylvania
+"42083,McKean,PA",Pennsylvania
+"42085,Mercer,PA",Pennsylvania
+"42087,Mifflin,PA",Pennsylvania
+"42089,Monroe,PA",Pennsylvania
+"42091,Montgomery,PA",Pennsylvania
+"42093,Montour,PA",Pennsylvania
+"42095,Northampton,PA",Pennsylvania
+"42097,Northumberland,PA",Pennsylvania
+"42099,Perry,PA",Pennsylvania
+"42101,Philadelphia,PA",Pennsylvania
+"42103,Pike,PA",Pennsylvania
+"42105,Potter,PA",Pennsylvania
+"42107,Schuylkill,PA",Pennsylvania
+"42109,Snyder,PA",Pennsylvania
+"42111,Somerset,PA",Pennsylvania
+"42113,Sullivan,PA",Pennsylvania
+"42115,Susquehanna,PA",Pennsylvania
+"42117,Tioga,PA",Pennsylvania
+"42119,Union,PA",Pennsylvania
+"42121,Venango,PA",Pennsylvania
+"42123,Warren,PA",Pennsylvania
+"42125,Washington,PA",Pennsylvania
+"42127,Wayne,PA",Pennsylvania
+"42129,Westmoreland,PA",Pennsylvania
+"42131,Wyoming,PA",Pennsylvania
+"42133,York,PA",Pennsylvania
+"44001,Bristol,RI",Rhode Island
+"44003,Kent,RI",Rhode Island
+"44005,Newport,RI",Rhode Island
+"44007,Providence,RI",Rhode Island
+"44009,Washington,RI",Rhode Island
+"50001,Addison,VT",Vermont
+"50003,Bennington,VT",Vermont
+"50005,Caledonia,VT",Vermont
+"50007,Chittenden,VT",Vermont
+"50009,Essex,VT",Vermont
+"50011,Franklin,VT",Vermont
+"50013,Grand Isle,VT",Vermont
+"50015,Lamoille,VT",Vermont
+"50017,Orange,VT",Vermont
+"50019,Orleans,VT",Vermont
+"50021,Rutland,VT",Vermont
+"50023,Washington,VT",Vermont
+"50025,Windham,VT",Vermont
+"50027,Windsor,VT",Vermont
+"23001,Androscoggin,ME",Maine
+"23003,Aroostook,ME",Maine
+"23005,Cumberland,ME",Maine
+"23007,Franklin,ME",Maine
+"23009,Hancock,ME",Maine
+"23011,Kennebec,ME",Maine
+"23013,Knox,ME",Maine
+"23015,Lincoln,ME",Maine
+"23017,Oxford,ME",Maine
+"23019,Penobscot,ME",Maine
+"23021,Piscataquis,ME",Maine
+"23023,Sagadahoc,ME",Maine
+"23025,Somerset,ME",Maine
+"23027,Waldo,ME",Maine
+"23029,Washington,ME",Maine
+"23031,York,ME",Maine
+"10001,Kent,DE",Delaware
+"10003,New Castle,DE",Delaware
+"10005,Sussex,DE",Delaware
